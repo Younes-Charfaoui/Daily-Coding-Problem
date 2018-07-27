@@ -22,7 +22,7 @@ class XorLinked(object):
         if self.length == 0:
             nod = Node(element,0)
             self.head = element
-        
+
 
 
 def get_pointer(node):
