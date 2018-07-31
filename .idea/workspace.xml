@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8041ac8a-1c66-40b3-88bd-a2ff67d179d6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8041ac8a-1c66-40b3-88bd-a2ff67d179d6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,11 +51,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem_1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="problem_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twitter/problem_1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
               <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problem_1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apple/problem_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="56" lean-forward="true" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -89,6 +97,7 @@
         <option value="$PROJECT_DIR$/google_problems/problem_four.py" />
         <option value="$PROJECT_DIR$/Airbnb/problem_one.py" />
         <option value="$PROJECT_DIR$/twitter/problem_1.py" />
+        <option value="$PROJECT_DIR$/apple/problem_1.py" />
       </list>
     </option>
   </component>
@@ -129,6 +138,11 @@
               <item name="Daily Coding problem" type="b2602c69:ProjectViewProjectNode" />
               <item name="Daily Coding problem" type="462c0819:PsiDirectoryNode" />
               <item name="Airbnb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Daily Coding problem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Daily Coding problem" type="462c0819:PsiDirectoryNode" />
+              <item name="apple" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Daily Coding problem" type="b2602c69:ProjectViewProjectNode" />
@@ -658,6 +672,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apple/problem_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="56" lean-forward="true" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
           <folding />
         </state>
       </provider>
