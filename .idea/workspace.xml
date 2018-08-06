@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8041ac8a-1c66-40b3-88bd-a2ff67d179d6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Airbnb/problem_one.py" afterPath="$PROJECT_DIR$/Airbnb/problem_1.py" />
-      <change beforePath="$PROJECT_DIR$/facebook_problems/problem_one.py" afterPath="$PROJECT_DIR$/facebook_problems/problem_1.py" />
-      <change beforePath="$PROJECT_DIR$/google_problems/problem_four.py" afterPath="$PROJECT_DIR$/google_problems/problem_4.py" />
-      <change beforePath="$PROJECT_DIR$/google_problems/problem_one.py" afterPath="$PROJECT_DIR$/google_problems/problem_1.py" />
-      <change beforePath="$PROJECT_DIR$/google_problems/problem_three.py" afterPath="$PROJECT_DIR$/google_problems/problem_3.py" />
-      <change beforePath="$PROJECT_DIR$/google_problems/problem_two.py" afterPath="$PROJECT_DIR$/google_problems/problem_2.py" />
-      <change beforePath="$PROJECT_DIR$/jane_street_problems/problem_one.py" afterPath="$PROJECT_DIR$/jane_street_problems/problem_1.py" />
-      <change beforePath="$PROJECT_DIR$/stripe_problems/problem_one.py" afterPath="$PROJECT_DIR$/stripe_problems/problem_1.py" />
-      <change beforePath="$PROJECT_DIR$/uber_problems/problem_one.py" afterPath="$PROJECT_DIR$/uber_problems/problem_1.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,11 +23,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem_2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="problem_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/amazon/problem_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            <state relative-caret-position="69">
+              <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problem_6.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/google_problems/problem_6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="805">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -77,16 +78,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
               <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="problem_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/google_problems/problem_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -154,10 +145,11 @@
         <option value="$PROJECT_DIR$/google_problems/problem_5.py" />
         <option value="$PROJECT_DIR$/facebook_problems/problem_2.py" />
         <option value="$PROJECT_DIR$/twitter/problem_2.py" />
+        <option value="$PROJECT_DIR$/google_problems/problem_6.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -181,6 +173,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,8 +231,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,7 +374,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24627976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -414,14 +406,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Airbnb/problem_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/google_problems/problem_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -442,7 +426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -767,8 +748,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon/problem_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        <state relative-caret-position="69">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google_problems/problem_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
