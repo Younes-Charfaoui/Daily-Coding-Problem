@@ -16,7 +16,7 @@
       <file leaf-file-name="problem_7.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/google_problems/problem_7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="621">
               <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
               <folding />
             </state>
@@ -26,7 +26,7 @@
       <file leaf-file-name="problem_8.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/google_problems/problem_8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
+            <state relative-caret-position="1104">
               <caret line="48" column="18" lean-forward="false" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
               <folding />
             </state>
@@ -63,11 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem_11.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="problem_11.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/google_problems/problem_11.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problem_3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/amazon_problems/problem_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -111,10 +121,11 @@
         <option value="$PROJECT_DIR$/data_structure/linked_list.py" />
         <option value="$PROJECT_DIR$/google_problems/problem_8.py" />
         <option value="$PROJECT_DIR$/facebook_problems/problem_5.py" />
+        <option value="$PROJECT_DIR$/amazon_problems/problem_3.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -149,27 +160,7 @@
             <path>
               <item name="Daily Coding problem" type="b2602c69:ProjectViewProjectNode" />
               <item name="Daily Coding problem" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Daily Coding problem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Daily Coding problem" type="462c0819:PsiDirectoryNode" />
-              <item name="facebook_problems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Daily Coding problem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Daily Coding problem" type="462c0819:PsiDirectoryNode" />
-              <item name="google_problems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Daily Coding problem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Daily Coding problem" type="462c0819:PsiDirectoryNode" />
-              <item name="jane_street_problems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Daily Coding problem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Daily Coding problem" type="462c0819:PsiDirectoryNode" />
-              <item name="stripe_problems" type="462c0819:PsiDirectoryNode" />
+              <item name="amazon_problems" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Daily Coding problem" type="b2602c69:ProjectViewProjectNode" />
@@ -324,7 +315,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24627976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -356,13 +347,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/uber_problems/problem_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1587">
-          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/google_problems/problem_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -612,7 +596,7 @@
     <entry file="file://$PROJECT_DIR$/amazon/problem_2.py" />
     <entry file="file://$PROJECT_DIR$/google_problems/problem_7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="621">
           <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
           <folding />
         </state>
@@ -628,7 +612,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/google_problems/problem_8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="1104">
           <caret line="48" column="18" lean-forward="false" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
           <folding />
         </state>
@@ -638,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
           <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -662,6 +645,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_problems/problem_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
