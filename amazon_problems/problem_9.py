@@ -30,3 +30,20 @@ You should print out the following:
 14
 13
 12"""
+
+
+def main():
+    matrix = [[1, 2, 3, 4, 5],
+              [6, 7, 8, 9, 10],
+              [11, 12, 13, 14, 15],
+              [16, 17, 18, 19, 20]]
+    rs = 0
+    re = len(matrix) - 1
+    cs = 0
+    ce = len(matrix[0]) - 1
+    ci = 0
+    cj = 0
+
+
+
+main()
