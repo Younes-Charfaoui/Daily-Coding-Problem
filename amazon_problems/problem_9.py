@@ -31,12 +31,30 @@ You should print out the following:
 13
 12"""
 
+a = [[1, 2, 3, 4, 5],
+     [6, 7, 8, 9, 10],
+     [11, 12, 13, 14, 15],
+     [16, 17, 18, 19, 20]]
+
+b = [[1, 2, 3],
+     [4, 5, 6]]
+
+c = [[1, 2, 3]]
+
+d = [[1],
+     [2],
+     [3],
+     [4],
+     [5],
+     [6]]
+
+e = [[1, 2, 3, 4],
+     [1, 2, 3, 4],
+     [1, 2, 3, 4]]
+
 
 def main():
-    matrix = [[1, 2, 3, 4, 5],
-              [6, 7, 8, 9, 10],
-              [11, 12, 13, 14, 15],
-              [16, 17, 18, 19, 20]]
+    matrix = e
     rs = 0
     re = len(matrix) - 1
     cs = 0
@@ -71,12 +89,11 @@ def main():
             ori = 3
 
         elif ori == 3:
-            for ci in range(re, rs-1, -1):
+            for ci in range(re, rs - 1, -1):
                 print(matrix[ci][cj])
                 now += 1
             cs += 1
             ori = 0
-
 
 
 main()
