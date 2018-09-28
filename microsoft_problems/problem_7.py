@@ -5,11 +5,11 @@ For example, given 1, you should return 19. Given 2, you should return 28"""
 
 
 def make_perfect(number):
-    arr = str(number)
-    r = 0
-    for i in arr:
-        r += int(i)
-    return arr + str()
+    value = 10 - int(sum_number(str(number)))
+    if value == 0:
+        return number
+    else:
+        return str(number) +str(value)
 
 
 def sum_number(number):
@@ -27,4 +27,4 @@ def count(number):
     return str(r)
 
 
-print(sum_number("991"))
+print(make_perfect(22133))
