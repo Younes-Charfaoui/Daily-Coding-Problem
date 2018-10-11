@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8041ac8a-1c66-40b3-88bd-a2ff67d179d6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/snapchat_problems/problem_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/snapchat_problems/problem_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapchat_problems/problem_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/snapchat_problems/problem_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,24 +28,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="14" />
+          <entry key="py" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="14" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="py" value="1967" />
+          <entry key="py" value="2069" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="1967" />
+          <entry key="Python" value="2069" />
         </counts>
       </usages-collector>
     </session>
@@ -62,15 +62,24 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snapchat_problems/problem_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+            <state relative-caret-position="230">
+              <caret line="14" lean-forward="true" selection-start-line="7" selection-end-line="14" />
               <folding>
-                <marker date="1539277670756" expanded="true" signature="275:557" ph="..." />
-                <marker date="1539277670756" expanded="true" signature="449:557" ph="..." />
+                <marker date="1539277891719" expanded="true" signature="275:557" ph="..." />
+                <marker date="1539277891719" expanded="true" signature="449:557" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/snapchat_problems/problem_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -125,6 +134,7 @@
         <option value="$PROJECT_DIR$/microsoft_problems/problem_7.py" />
         <option value="$PROJECT_DIR$/microsoft_problems/problem_6.py" />
         <option value="$PROJECT_DIR$/snapchat_problems/problem_1.py" />
+        <option value="$PROJECT_DIR$/snapchat_problems/problem_2.py" />
       </list>
     </option>
   </component>
@@ -187,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.problem_1">
+  <component name="RunManager" selected="Python.problem_2">
     <configuration name="problem_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Daily Coding problem" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem_25" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="problem_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Daily Coding problem" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/google_problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/snapchat_problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/google_problems/problem_25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snapchat_problems/problem_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,19 +304,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.problem_25" />
       <item itemvalue="Python.problem_12" />
       <item itemvalue="Python.problem_7" />
       <item itemvalue="Python.problem_6" />
       <item itemvalue="Python.problem_1" />
+      <item itemvalue="Python.problem_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.problem_2" />
         <item itemvalue="Python.problem_1" />
         <item itemvalue="Python.problem_6" />
         <item itemvalue="Python.problem_7" />
         <item itemvalue="Python.problem_12" />
-        <item itemvalue="Python.problem_25" />
       </list>
     </recent_temporary>
   </component>
@@ -332,8 +342,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33060557" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39770868" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33060557" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39770868" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -348,17 +358,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/snapchat_problems/problem_1.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/google_problems/__init__.py" />
@@ -607,12 +606,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snapchat_problems/problem_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        <state relative-caret-position="230">
+          <caret line="14" lean-forward="true" selection-start-line="7" selection-end-line="14" />
           <folding>
-            <marker date="1539277670756" expanded="true" signature="275:557" ph="..." />
-            <marker date="1539277670756" expanded="true" signature="449:557" ph="..." />
+            <marker date="1539277891719" expanded="true" signature="275:557" ph="..." />
+            <marker date="1539277891719" expanded="true" signature="449:557" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snapchat_problems/problem_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
         </state>
       </provider>
     </entry>
