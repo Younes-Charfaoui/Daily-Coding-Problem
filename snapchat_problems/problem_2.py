@@ -18,11 +18,14 @@ def find_small(array):
 
 intervals = [(1, 3), (5, 8), (4, 10), (20, 25)]
 
-result = []
+result = [intervals[find_small(intervals)]]
+min = intervals[find_small(intervals)][1]
 
 for i in range(len(intervals)):
     var = find_small(intervals)
-    result.append(intervals[var])
+    if intervals[var][0] > min:
+        min = intervals[var][1]
+        result.append(intervals[var])
     del intervals[var]
 
 print(result)
