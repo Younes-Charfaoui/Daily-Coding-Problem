@@ -37,3 +37,21 @@ class BinaryTree:
                 self.insert_node(data, node.right)
             else:
                 node.right = Node(data)
+
+    def is_valid(self):
+        return valid_node(self.root)
+
+    def valid_node(self, node):
+        if node:
+            if node.left:
+                if node.left.data > node.data :
+                    return False
+                else :
+                    return self.valid_node(node.left)
+            if node.right:
+                if node.right.data <= node.data:
+                    return False
+                else :
+                    return self.valid_node(node.left)
+        else:
+            return True
