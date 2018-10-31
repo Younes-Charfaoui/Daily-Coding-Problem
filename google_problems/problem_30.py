@@ -64,7 +64,6 @@ class BinaryTree:
 
 
 a = Node('a')
-
 b = Node('b')
 c = Node('c')
 d = Node('d')
@@ -73,10 +72,8 @@ f = Node('f')
 
 a.left = b
 a.right = c
-
 b.left = d
 b.right = e
-
 c.left = f
 
 tree = BinaryTree(a)
