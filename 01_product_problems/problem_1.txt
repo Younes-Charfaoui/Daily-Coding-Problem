@@ -1,0 +1,5 @@
+This problem was recently asked by Facebook.
+
+Design a jobs product for Facebook.
+
+Make it harder? Assume the product is for blue-collar workers.
