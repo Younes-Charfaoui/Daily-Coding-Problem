@@ -1,0 +1,5 @@
+This problem was recently asked by Google.
+
+You're the new product manager for YouTube and you notice a drop in video engagement by 15% over the past two weeks. What do you do?
+
+Make it harder? The drop in engagement is globally distributed.
