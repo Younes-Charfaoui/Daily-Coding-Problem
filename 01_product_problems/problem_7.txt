@@ -1,0 +1,5 @@
+This problem was recently asked by Facebook.
+
+Pretend you've just been hired as the product manager for Facebook Marketplaces. You notice one core user group are those using Marketplaces to buy and sell used cars. How would you make their experience better?
+
+Make it harder? You cannot implement any demand (buy-side) features.
