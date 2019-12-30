@@ -1,0 +1,9 @@
+This problem was asked by Facebook.
+
+Assume you have the below tables on user actions. Write a query to get the active user retention by month.
+
+user_actions
+column_name	type
+user_id	integer
+event_id	string ("sign-in", "like", "comment")
+timestamp	datetime
