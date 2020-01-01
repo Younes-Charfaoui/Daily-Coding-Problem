@@ -9,15 +9,20 @@ sums up to 24.
 """
 
 # function to filter element smaller than k.
-def filter_array(array , k):
-	result = []
-	for i in array:
-		if i <=k:
-			result.append(i)
-	return result
+def subset_sum(nums, k):
+    if k == 0:
+        return []
+    if not nums and k != 0:
+        return None
 
-def sort(array):
-	
+    nums_copy = nums[:]
+    last = nums_copy.pop()
 
-def main():
+    with_last = subset_sum(nums_copy, k - last)
+    without_last = subset_sum(nums_copy, k)
+    if with_last is not None:
+        return with_last + [last]
+    if without_last is not None:
+        return without_last
 
+subset_sum([12, 1, 61, 5, 9, 2] , 24)
