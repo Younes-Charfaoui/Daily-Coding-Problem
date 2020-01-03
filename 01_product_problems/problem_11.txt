@@ -1,0 +1,5 @@
+This question was recently asked by Google.
+
+How many Hershey's chocolate bars were sold in the US last year?
+
+Make it harder? Consider at least two edge cases you didn't think of initially in your formula.
