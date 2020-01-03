@@ -11,3 +11,16 @@ not take any elements.
 
 Do this in O(N) time.
 """
+
+
+def solve(arr):
+    mx = 0
+    sum = 0
+    for a in arr:
+        sum += a
+        if sum < 0: sum = 0
+        mx = max(mx, sum)
+    return mx
+
+print(solve([34, -50, 42, 14, -5, 86])) # returns 137
+print(solve([-5, -1, -8, -9])) # returns 0
