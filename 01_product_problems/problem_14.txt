@@ -1,0 +1,5 @@
+This problem was recently asked by Stripe.
+
+One app I use everyday is Spotify. Provide five different examples of APIs they may have.
+
+Make it harder? Provide your answer in under one minute.
