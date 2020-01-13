@@ -1,0 +1,5 @@
+This problem was recently asked by Lyft.
+
+Let's say we hired you to start the coming January and during your first month you notice there's a 45% drop in ride orders. What are your next steps?
+
+Make it harder? The drop is regionally restricted to East Coast American cities.
