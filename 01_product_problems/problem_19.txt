@@ -1,0 +1,5 @@
+This problem was recently asked by Facebook.
+
+We try to add more socially responsible features to help the community. One that is quite popular is our Crisis Alert feature. How would you improve it?
+
+Make it harder? Provide at least three improvements
