@@ -1,0 +1,5 @@
+This problem was recently asked by LinkedIn.
+
+What's an endpoint? Give an example of one POST request and one GET request we'd likely have here at LinkedIn.
+
+Make it harder? Provide your answer in under one minute.
