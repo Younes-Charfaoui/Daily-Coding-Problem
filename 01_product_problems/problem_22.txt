@@ -1,0 +1,5 @@
+This problem was asked recently by Microsoft.
+
+Microsoft bought LinkedIn for 26 billion dollars in 2016, even though they had a net loss of $166 million the last year. What was the reasoning for the purchase?
+
+Make it harder? Provide at least three different reasons.
