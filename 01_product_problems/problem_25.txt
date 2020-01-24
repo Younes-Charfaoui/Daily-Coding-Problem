@@ -1,0 +1,5 @@
+This question was recently asked by Google.
+
+Estimate the total number of videos on Youtube.
+
+Make it harder? Account for growth of video uploads as Youtube becomes more popular.
