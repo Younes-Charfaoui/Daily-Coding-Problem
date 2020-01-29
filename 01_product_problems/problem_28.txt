@@ -1,0 +1,5 @@
+This problem was asked by Slack.
+
+What would you track here to measure our success?
+
+Make it harder? Use user behavior to prioritize metrics.
