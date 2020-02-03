@@ -1,0 +1,7 @@
+This problem was recently asked by Asana.
+
+What's a tool you think other product managers should use?
+
+For this problem we'll be using Balsamiq, a wireframing app.
+
+Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
