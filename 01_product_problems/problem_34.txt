@@ -1,0 +1,5 @@
+This problem was recently asked by Oculus.
+
+The first thing Oculus users experience when they put on their headset is the Oculus Home. We recently upgraded to Home 2.0 which features more immersion and personalization. How else would you improve the Home 2.0 if you were a PM at Oculus?
+
+Make it harder? Provide at least two improvements.
