@@ -1,0 +1,5 @@
+This problem was asked recently by Google.
+
+What is the most important metric for Google Docs and why?
+
+Make it harder? Rank at least 5 different metrics.
