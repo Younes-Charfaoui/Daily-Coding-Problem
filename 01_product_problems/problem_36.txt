@@ -1,0 +1,5 @@
+This problem was asked by Spotify.
+
+Conversion on our landing page dropped by 25% last week. How would you diagnose what happened?
+
+Make it harder? The drop is sudden.
