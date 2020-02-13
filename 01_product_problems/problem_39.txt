@@ -1,0 +1,7 @@
+This problem was recently asked by Invision.
+
+Since we're a completely remote team, it's an understatement to say we use a lot of collaboration tools. What's a collaboration product your teams use and why do you like it?
+
+For this problem we'll be using Slack.
+
+Make it harder? Include at least two alternatives to your product and talk about why yours is superior.
