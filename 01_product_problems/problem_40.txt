@@ -1,0 +1,5 @@
+This question was recently asked by Shopify.
+
+Design a better elevator.
+
+Make it harder? The elevator is used for heavy machinery in industrial settings.
