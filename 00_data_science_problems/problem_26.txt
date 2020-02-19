@@ -1,0 +1,3 @@
+This problem was asked by Google.
+
+Say you are running a multiple linear regression and believe there are several predictors that are correlated. How will the results of the regression be affected if they are indeed correlated? How would you deal with this problem?
