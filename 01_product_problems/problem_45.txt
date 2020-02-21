@@ -1,0 +1,5 @@
+This problem was asked recently by Microsoft.
+
+We bought GitHub for $7.5 billion in 2018. Name some reasons for the acquisition.
+
+Make it harder? Provide at least 3 separate reasons.
