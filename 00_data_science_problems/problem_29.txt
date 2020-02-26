@@ -1,0 +1,3 @@
+This problem was asked by Uber.
+
+Say you are given a random Bernoulli trial generator. How would you generate values from a standard normal distribution?
