@@ -1,0 +1,5 @@
+This problem was asked recently by Spotify.
+
+Estimate the bandwidth required to support our app.
+
+Make it harder? Estimate in petabytes per month.
