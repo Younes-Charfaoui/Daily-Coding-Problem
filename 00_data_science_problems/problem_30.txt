@@ -1,0 +1,3 @@
+This problem was asked by Microsoft.
+
+What is the bias-variance tradeoff? How is it expressed using an equation?
