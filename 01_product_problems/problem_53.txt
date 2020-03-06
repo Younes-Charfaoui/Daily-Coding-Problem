@@ -1,5 +1,8 @@
-This problem was asked recently by Netflix.
+This problem was recently asked by Instagram.
 
-How would you measure the success of the recommendation engine at Netflix?
+Tell me about an app you use on your phone every day. Please don't use any Facebook products, including Instagram or WhatsApp.
 
-Make it harder? Map at least 5 unique user behaviors.
+For this problem we'll be using Splitwise, a shared bill and expense tracking app.
+
+Make it harder? Time yourself. Be succinct: between 5 and 7 minutes.
+

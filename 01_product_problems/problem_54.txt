@@ -1,0 +1,5 @@
+This problem was asked recently by Netflix.
+
+How would you measure the success of the recommendation engine at Netflix?
+
+Make it harder? Map at least 5 unique user behaviors.
