@@ -1,0 +1,7 @@
+This problem was asked recently by RealSelf.
+
+Let's say RealSelf selected South Korea as the next market to expand into. Walk me through your strategy.
+
+RealSelf is a healthcare marketplace where consumers research aesthetic treatments (plastic surgery, etc.) and connect with physicians.
+
+Make it harder? Your strategy should consider both supply and demand.
