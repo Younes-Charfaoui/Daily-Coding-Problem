@@ -1,0 +1,3 @@
+This problem was asked by Netflix.
+
+What are MLE and MAP? What is the difference between the two?
