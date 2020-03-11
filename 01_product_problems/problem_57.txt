@@ -1,0 +1,5 @@
+This problem was recently asked by Yelp.
+
+What is the benefit of having a control group when testing?
+
+Make it harder? Give an example to help illustrate your point.

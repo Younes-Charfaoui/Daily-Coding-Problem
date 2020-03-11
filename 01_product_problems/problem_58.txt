@@ -1,0 +1,7 @@
+This problem was recently asked by Amazon.
+
+What's your favorite product and why?
+
+For this problem we'll be using Netflix.
+
+Make it harder? Follow along and use Netflix as your answer.
