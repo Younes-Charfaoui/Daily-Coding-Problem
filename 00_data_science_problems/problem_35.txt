@@ -1,0 +1,3 @@
+This problem was asked by Airbnb.
+
+Say you are modeling the yearly revenue of new listings. What kinds of features would you use? What data processing steps need to be taken, and what kind of model would run?
