@@ -1,0 +1,5 @@
+This question was recently asked by Google.
+
+Imagine that you are a PM at Airbnb, and you are assigned to build a new way for businesses to travel. How would you measure if this hypothetical feature was successful?
+
+Make it harder? Analyze core behaviors.
