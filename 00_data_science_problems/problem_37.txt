@@ -1,0 +1,3 @@
+This problem was asked by Lyft.
+
+A and B are playing the following game: a number k from 1-6 is chosen, and A and B will toss a die until the first person sees the side k, and that person gets $100. How much is A willing to pay to play first in this game?
