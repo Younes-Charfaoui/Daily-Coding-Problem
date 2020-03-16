@@ -1,0 +1,5 @@
+This problem was recently asked by Spotify.
+
+Let's say our installs increased 25% — what are reasons this might have happened?
+
+Make it harder? Provide four different reasons why this could have happened.
