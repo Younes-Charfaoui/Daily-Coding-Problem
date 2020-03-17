@@ -1,0 +1,7 @@
+This problem was recently asked by Airbnb.
+
+Pick any product, not including Airbnb. How would you make it better?
+
+For this solution, we'll be using Twitch.
+
+Make it harder? Follow along and use Twitch in your response.
