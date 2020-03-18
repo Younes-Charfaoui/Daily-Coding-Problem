@@ -1,0 +1,5 @@
+This question was recently asked by Apple.
+
+Design a better dog collar.
+
+Make it harder? Propose at least three different improvements you can make to existing collars.
