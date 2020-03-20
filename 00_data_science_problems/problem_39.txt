@@ -1,0 +1,4 @@
+This problem was asked by Stripe.
+
+Say we have two random variables X and Y. What does it mean for X and Y to be independent? What about uncorrelated? Give an example where X and Y are uncorrelated but not independent.
+
