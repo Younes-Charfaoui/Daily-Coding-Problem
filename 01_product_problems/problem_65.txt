@@ -1,0 +1,5 @@
+This question was recently asked by Uber.
+
+Let's say we changed our referral system. How would you measure it's success?
+
+Make it harder? Analyze core behaviors.
