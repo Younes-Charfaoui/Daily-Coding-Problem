@@ -1,0 +1,3 @@
+This problem was asked by Airbnb.
+
+Say you are tasked with producing a model that can recommend similar listings to an Airbnb user when they are looking at any given listing. What kind of model would you use, what data is needed for that model, and how would you evaluate the model?
