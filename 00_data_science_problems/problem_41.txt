@@ -1,0 +1,3 @@
+This problem was asked by Netflix.
+
+In the streaming context, for A/B testing, what are some metrics and data to track, and what are some differences versus more traditional A/B testing?
