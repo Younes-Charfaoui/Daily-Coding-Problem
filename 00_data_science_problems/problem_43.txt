@@ -1,0 +1,3 @@
+This problem was asked by Robinhood.
+
+A and B are playing a game where A has n+1 coins, B has n coins, and they each flip all of their coins. What is the probability that A will have more heads than B?
