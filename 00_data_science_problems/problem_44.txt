@@ -1,0 +1,3 @@
+This problem was asked by Google.
+
+What are the assumptions behind linear regression? How do you diagnose if any of these assumptions are violated?
