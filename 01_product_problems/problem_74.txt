@@ -1,0 +1,5 @@
+This question was recently asked by Airbnb.
+
+Design a better way for people to vote in the US Presidential election.
+
+Make it harder? Propose and evaluate at least three different solutions.
