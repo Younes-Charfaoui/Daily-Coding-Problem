@@ -1,0 +1,5 @@
+This problem was asked recently by Google.
+
+How much oil does the United States import (in barrels per year)?
+
+Make it harder? Ask a friend to provide a mock interview with this question. Tell them to use the solution as a guide if you get stuck.
