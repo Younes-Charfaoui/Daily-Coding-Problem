@@ -1,0 +1,3 @@
+This problem was asked by Lyft.
+
+Say you have an unfair coin which will land on heads 60% of the time. How many coin flips are needed to detect that the coin is unfair?
