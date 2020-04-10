@@ -1,0 +1,7 @@
+This problem was recently asked by Disney.
+
+The NBA has become the most watched sport in North America. One thing many of it's watchers complain about though is access to games. How would you improve NBA League Pass for basketball fans across the world?
+
+NBA League Pass is the NBA's proprietary live and on-demand game streaming service.
+
+Make it harder? Offer at least two unique improvements.
