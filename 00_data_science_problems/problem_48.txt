@@ -1,0 +1,4 @@
+This problem was asked by Palantir.
+
+Given a positive integer n, find the smallest number of perfect squares that sum up to n. For example, for n = 7, you should return 4 since 7 = 4 + 1 + 1 +1, and for n = 13, you should return 2 since 13 = 4 + 9.
+
