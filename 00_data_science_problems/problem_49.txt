@@ -1,0 +1,3 @@
+This problem was asked by Lyft.
+
+Your team is trying to figure out whether a new driver app with extra UI features will increase the number of rides taken. How would you test whether the extra features in the app make it better than the original version?
