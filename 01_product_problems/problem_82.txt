@@ -1,0 +1,5 @@
+This problem was asked recently by Lime.
+
+What is the size of the micromobility market in the United States?
+
+Make it harder? Use existing micromobility company valuations to check your answer.
