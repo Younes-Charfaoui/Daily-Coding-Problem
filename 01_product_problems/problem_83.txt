@@ -1,0 +1,5 @@
+This problem was recently asked by 23andMe.
+
+Assume our conversion dropped 33%, what would you do?
+
+Make it harder? Ask a friend to mock you with this question! They should use this solution as a guide to prompt you.
