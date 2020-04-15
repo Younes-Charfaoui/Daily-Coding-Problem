@@ -1,0 +1,3 @@
+This problem was asked by Google.
+
+Say we are running a probabilistic linear regression which does a good job modeling the underlying relationship between some y and x. Now assume all inputs have some noise ε added, which is independent of the training data. What is the new objective function? How do you compute it?
