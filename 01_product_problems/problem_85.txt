@@ -1,0 +1,5 @@
+This problem was asked recently by Facebook.
+
+Let's say it's 2009, and Facebook just launched the Like button. You want to extend it with reactions. Explain, in plain English, how to accomplish that technically.
+
+Make it harder? Make it so your system allows as many types of reactions as you want.
