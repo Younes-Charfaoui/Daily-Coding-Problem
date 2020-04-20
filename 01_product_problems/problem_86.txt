@@ -1,0 +1,5 @@
+This question was recently asked by Asana.
+
+How would you design ClassPass for kids?
+
+Make it harder? Whiteboard your solution.
