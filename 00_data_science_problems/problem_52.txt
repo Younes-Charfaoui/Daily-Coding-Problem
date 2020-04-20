@@ -1,6 +1,5 @@
-This problem was asked by Zillow.
+This problem was asked by Facebook.
 
-Let's define a "sevenish" number to be one which is either a power of 7, or the sum of unique powers of 7. 
-The first few sevenish numbers are 1, 7, 8, 49, and so on. 
+You have the entire social graph of Facebook users, with nodes representing users and edges representing friendships between users. Given the edges of the graph and the number of nodes, write a function to return the smallest number of friendships in-between two users.
 
-Create an algorithm to find the nth sevenish number.
+For example, if the graph consists of 5 users A, B, C, D, E, and the friendship edges are: (A, B), (A, C), (B, D), (D, E) then the function should return 2 for the input A and E.
