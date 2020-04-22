@@ -1,0 +1,14 @@
+This problem was asked by Snapchat.
+
+Assume you have the below tables on sessions that users have, and a users table. Write a query to get the active user count of daily cohorts.
+
+sessions
+column_name	type
+session_id	integer
+user_id	integer
+date	datetime
+users
+column_name	type
+user_id	integer
+email	string
+date	datetime
