@@ -1,0 +1,6 @@
+This problem was asked by Stitch Fix.
+
+How would you build a model to calculate a customer's propensity to buy a particular item? 
+
+What are some pros and cons of your approach?
+
