@@ -1,0 +1,3 @@
+This problem was asked by Facebook.
+
+Let’s say that you are the first person working on the Facebook News Feed. What metrics would you track and how would you improve those metrics?
