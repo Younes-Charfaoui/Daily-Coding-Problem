@@ -1,0 +1,5 @@
+This problem was recently asked by Shopify.
+
+In many products, churn and retention are really important to evaluating long-term success. Do you think it's okay for Shopify to have high churn?
+
+Make it harder? Make an argument for both sides.
