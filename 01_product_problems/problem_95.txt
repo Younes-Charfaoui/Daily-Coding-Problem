@@ -1,0 +1,5 @@
+This problem was asked recently by Twitter.
+
+How many tweets are tweeted every day on Twitter?
+
+Make it harder? Assume this is the global amount of tweets.
