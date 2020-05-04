@@ -1,0 +1,3 @@
+This problem was asked by Snapchat.
+
+There are two groups of n Snapchat users, A and B, and each user in A is friends with those in B and vice versa. Each user in A will randomly choose a user in B as their best friend and each user in B will randomly choose a user in A as their best friend. If two people have chosen each other, they are mutual best friends. What is the probability that there will be no mutual best friendships?
