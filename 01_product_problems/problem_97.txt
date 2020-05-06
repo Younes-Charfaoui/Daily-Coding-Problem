@@ -1,0 +1,5 @@
+This problem was recently asked by Codecademy.
+
+Signups on our landing page are up 15% - why do you think this happened?
+
+Make it harder? 90% of new signups are on mobile.
