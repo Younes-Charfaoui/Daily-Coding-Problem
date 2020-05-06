@@ -1,0 +1,5 @@
+This question was recently asked by Google.
+
+Imagine you're a new product manager at Asana, and you're assigned to improve the ticketing software. How would you measure the success of these improvements?
+
+Make it harder? Analyze core behaviors.
