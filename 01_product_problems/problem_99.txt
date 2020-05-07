@@ -1,0 +1,5 @@
+This problem was recently asked by Robinhood.
+
+What are some endpoints we might have on our app? What do they do and what type of information would be needed?
+
+Make it harder? List at least 5 different endpoints.
