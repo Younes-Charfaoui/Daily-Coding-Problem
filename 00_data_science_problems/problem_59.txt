@@ -1,0 +1,14 @@
+This problem was asked by Facebook.
+
+Assume you are given the below tables on users and user posts. Write a query to get the distribution of the number of posts per user.
+
+users
+column_name	type
+user_id	integer
+date	datetime
+posts
+column_name	type
+post_id	integer
+user_id	integer
+body	string
+date	datetime
