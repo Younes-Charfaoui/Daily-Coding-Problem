@@ -1,0 +1,5 @@
+This problem was asked recently by Instagram.
+
+We recently made a pretty big decision to remove the like count on posts. Why do you think we did this?
+
+Make it harder? Name at least three reasons and rank them.
