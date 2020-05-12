@@ -1,0 +1,5 @@
+This question was recently asked by Facebook.
+
+How would you measure improvements made to Facebook Messenger?
+
+Make it harder? Analyze at least two different behaviors.
