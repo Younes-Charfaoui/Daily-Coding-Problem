@@ -1,0 +1,3 @@
+This problem was asked by Dropbox.
+
+Dropbox has just started and there are two servers that service users: a faster server and a slower server. When a user is on the website, they are routed to either server randomly, and the wait time is exponentially distributed with two different parameters. What is the probability density of a random user's waiting time?
