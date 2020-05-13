@@ -1,0 +1,5 @@
+This problem was recently asked by Atlassian.
+
+How can a product like Slack make collaboration even better?
+
+Make it harder? Define at least two user types.
