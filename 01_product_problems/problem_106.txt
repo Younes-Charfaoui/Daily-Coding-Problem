@@ -1,0 +1,5 @@
+This problem was asked recently by Facebook.
+
+Estimate the bandwidth (bits / s) of a 747 crossing the Atlantic filled with CDs.
+
+Make it harder? Ask a friend use this question to mock you!
