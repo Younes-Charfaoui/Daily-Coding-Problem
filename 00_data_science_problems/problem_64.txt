@@ -1,0 +1,3 @@
+This problem was asked by Uber.
+
+Say you roll three dice, one by one. What is the probability that you obtain 3 numbers in a strictly increasing order?
