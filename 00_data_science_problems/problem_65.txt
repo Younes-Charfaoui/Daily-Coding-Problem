@@ -1,0 +1,3 @@
+This problem was asked by Spotify.
+
+Say you draw n samples from a uniform distribution U(a, b). What is the MLE estimate of a and b?
