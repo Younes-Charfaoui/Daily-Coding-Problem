@@ -1,0 +1,7 @@
+This problem was recently asked by LinkedIn.
+
+What's your favorite product and why?
+
+For this problem we'll be using Chrome.
+
+Make it harder? Follow along and use Chrome as your answer.
