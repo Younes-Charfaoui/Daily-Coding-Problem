@@ -1,0 +1,5 @@
+This problem was recently asked by Amazon.
+
+[Amazon.com](http://amazon.com) is one of the most visited e-commerce sites in the world. We handle millions of transactions each day. What are some endpoints Amazon.com might have?
+
+Make it harder? List at least 5 different endpoints.
