@@ -1,0 +1,5 @@
+This problem was recently asked by Dropbox.
+
+What would you do if you found out our uploads were down 50%?
+
+Make it harder? Uploads have only changed on web.
