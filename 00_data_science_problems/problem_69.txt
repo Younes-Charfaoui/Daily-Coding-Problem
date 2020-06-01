@@ -1,0 +1,3 @@
+This problem was asked by Lyft.
+
+A fair coin is tossed n times. Given that there were k heads in the n tosses, what is the probability that the first toss was heads?
