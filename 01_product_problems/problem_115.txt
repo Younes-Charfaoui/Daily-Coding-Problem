@@ -1,0 +1,5 @@
+This problem was recently asked by Google.
+
+If you were the product manager on Calendars, how would you measure it's success?
+
+Make it harder? Evaluate at least three different user behaviors.
