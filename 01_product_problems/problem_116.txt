@@ -1,0 +1,5 @@
+This problem was recently asked by Dropbox.
+
+What's the difference between a POST and GET request?
+
+Make it harder? List at least 5 different endpoints.
