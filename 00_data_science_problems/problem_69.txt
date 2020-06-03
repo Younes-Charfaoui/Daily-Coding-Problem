@@ -1,3 +1,3 @@
-This problem was asked by Lyft.
+This problem was asked by Google.
 
-A fair coin is tossed n times. Given that there were k heads in the n tosses, what is the probability that the first toss was heads?
+Say you have two countries of interest and want to compare variances of clicking behavior from users (i.e. total distribution of clicks). How would you do this comparison, and what assumptions need to be met?
