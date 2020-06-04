@@ -1,0 +1,5 @@
+This problem was asked recently by Google.
+
+How many grains of rice are in a 10kg bag?
+
+Make it harder? Answer in under five minutes!
