@@ -1,0 +1,5 @@
+This problem was asked by Reddit.
+
+Given an array A of positive integers, a peak element is defined as an element that is greater than its neighbors.
+
+For example, if A = [3, 5, 2, 4, 1] you should return either 1 or 3 since index 1 is 5, and index 3 is 4, and both are peak elements. Find the index of any peak elements.
