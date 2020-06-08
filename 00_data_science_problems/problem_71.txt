@@ -1,0 +1,3 @@
+This problem was asked by Tesla.
+
+You're working with several sensors that are designed to predict a particular energy consumption metric on a vehicle. Using the outputs of the sensors, you build a linear regression model to make the prediction. There are many sensors, and several of the sensors are prone to complete failure. What are some cost functions you might consider, and which would you decide to minimize in this scenario?
