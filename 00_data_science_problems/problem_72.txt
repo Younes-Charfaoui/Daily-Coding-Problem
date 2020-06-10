@@ -1,0 +1,15 @@
+This problem was asked by Snapchat.
+
+Assume you are given the below tables on users and their time spent on sending and opening Snaps. Write a query to get the breakdown for each age breakdown of the percentage of time spent on sending versus opening snaps.
+
+activities
+column_name	type
+activity_id	integer
+user_id	integer
+type	string ("send", "open")
+time_spent	float
+activity_date	datetime
+age_breakdown
+column_name	type
+user_id	integer
+age_bucket	string
