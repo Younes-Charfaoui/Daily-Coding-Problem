@@ -1,0 +1,3 @@
+This problem was asked by Facebook.
+
+Let's say Facebook has expanded into a previously untapped geographical region. Looking at weekly metrics, you see a slow decrease in the average number of comments per user over several months. You also know that new users have been growing at a steady linear rate in the area for the same time frame. What are some reasons why the average number of comments per user would be decreasing and what metrics would you look into?
