@@ -1,0 +1,5 @@
+This problem was asked recently by Amazon.
+
+How many pairs of shoes do you think we go through in our lifetime?
+
+Make it harder? Account for different age ranges.
