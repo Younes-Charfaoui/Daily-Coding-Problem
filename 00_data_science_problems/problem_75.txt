@@ -1,0 +1,3 @@
+This problem was asked by Robinhood.
+
+A biased coin, with probability p of landing on heads, is tossed n times. Write a recurrence relation for the probability that the total number of heads after n tosses is even.
