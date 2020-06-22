@@ -1,0 +1,5 @@
+This problem was recently asked by Amazon.
+
+List an example of one endpoint on Twitch. What does it do?
+
+Make it harder? Answer in five sentences or less.
