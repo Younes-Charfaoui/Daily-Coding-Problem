@@ -1,0 +1,11 @@
+This problem was asked by Pinterest.
+
+Assume you are given the below table on sessions from users, with a given start and end time. A session is concurrent with another session if they overlap in their start and end times. Write a query to output the session that is concurrent with the largest number of other sessions.
+
+sessions
+column_name	type
+session_id	integer
+user_id	integer
+session_type	string
+duration	integer
+start_time	datetime
