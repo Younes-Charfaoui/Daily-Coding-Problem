@@ -1,0 +1,5 @@
+This problem was recently asked by Intuit.
+
+One of our most successful products is TurboTax. How would you measure the metrics on it if you were the product manager in charge?
+
+Make it harder? Evaluate at least three different user behaviors.
