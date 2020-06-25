@@ -1,0 +1,3 @@
+This problem was asked by Facebook.
+
+Let’s say that the usage of a Facebook posting tool dropped from 2% posts per user last month to 1% post per user today. What might be some potential causes and how would you go about understanding this drop?
