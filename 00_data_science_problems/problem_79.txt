@@ -1,0 +1,3 @@
+This problem was asked by Stripe.
+
+Consider a Bernoulli random variable with parameter p. Say you observe the following samples: [1, 0, 1, 1, 1]. What is the log likelihood function for p and what is the MLE of p?
