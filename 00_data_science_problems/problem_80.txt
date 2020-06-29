@@ -1,0 +1,3 @@
+This problem was asked by Netflix.
+
+What is Expectation-Maximization and when is it useful? Describe the setup algorithmically with formulas.
