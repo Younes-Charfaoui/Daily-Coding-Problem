@@ -1,0 +1,5 @@
+This problem was recently asked by Facebook.
+
+Go into detail about our signup endpoint. What does it do and what information does it require?
+
+Make it harder? List out as much detail as you can!
