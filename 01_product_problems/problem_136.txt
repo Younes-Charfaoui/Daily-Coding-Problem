@@ -1,0 +1,5 @@
+This problem was asked recently by Salesforce.
+
+Why do you think we acquired Tableau?
+
+Make it harder? Evaluate at least three different reasons.
