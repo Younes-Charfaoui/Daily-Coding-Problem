@@ -1,0 +1,12 @@
+This problem was asked by Stitch Fix.
+
+Assume you are given the below table on purchases from users. Write a query to get the number of people that purchased at least one product on multiple days.
+
+purchases
+column_name	type
+purchase_id	integer
+user_id	integer
+product_id	integer
+quantity	integer
+price	float
+purchase_time	datetime
