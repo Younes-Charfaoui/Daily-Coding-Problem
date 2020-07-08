@@ -1,0 +1,5 @@
+This problem was recently asked by LinkedIn.
+
+Assume we had a significant drop in our iOS installs. What would you do?
+
+Make it harder? Uploads have only changed on web.
