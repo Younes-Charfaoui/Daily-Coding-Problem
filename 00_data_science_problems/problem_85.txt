@@ -1,0 +1,5 @@
+This problem was asked by Disney.
+
+Disney+ offers a 7-day free trial period. After 7 days, customers are charged whatever package they chose. Assume that there are customers who commit to Disney+ right away and therefore don't end up having a 7-day free trial period.
+
+Disney wants to measure the success of the free trial. What metrics and analysis might you do to determine whether or not the free trial successfully acquires new customers?
