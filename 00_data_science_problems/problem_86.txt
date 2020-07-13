@@ -1,0 +1,3 @@
+This problem was asked by Facebook.
+
+Alice and Bob are playing a new Facebook game together. They play a series of rounds until one of them wins two more rounds than the other. With probability p, Alice will win each round. What is the probability that Bob wins the overall series?
