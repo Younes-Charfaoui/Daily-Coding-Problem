@@ -1,0 +1,5 @@
+This problem was recently asked by Intercom.
+
+What's the benefit of A/B testing for product organizations?
+
+Make it harder? List at least three different reasons.
