@@ -1,0 +1,11 @@
+This problem was asked by Yelp.
+
+Assume you are given the below table on reviews from users. Define a top-rated place as a business whose reviews only consist of 4 or 5 stars. Write a query to get the number and percentage of businesses that are top-rated places.
+
+reviews
+column_name	type
+business_id	integer
+user_id	integer
+review_text	string
+review_stars	integer
+review_date	datetime
