@@ -1,0 +1,5 @@
+This problem was asked recently by Twitch.
+
+How many weddings does the average American attend in their lifetime?
+
+Make it harder? Account for divorces and remarrying.
