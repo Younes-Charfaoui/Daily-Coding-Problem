@@ -1,0 +1,6 @@
+This problem was asked by Pinterest.
+
+Given two arrays, write a function to get the intersection of the two.
+
+For example, if A = [2, 4, 1, 5, 0], and B = [3, 4, 5] then you should return [4, 5].
+
