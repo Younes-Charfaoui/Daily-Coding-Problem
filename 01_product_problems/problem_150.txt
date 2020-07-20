@@ -1,0 +1,5 @@
+This problem was asked recently by Google.
+
+Estimate the number of Instagram posts per day.
+
+Make it harder? Provide a sanity check before concluding.
