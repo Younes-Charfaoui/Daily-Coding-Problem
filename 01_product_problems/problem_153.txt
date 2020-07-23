@@ -1,0 +1,5 @@
+This problem was recently asked by Google.
+
+Day One is my favorite journaling app. How would you improve it?
+
+Make it harder? Offer at least one small improvement and one big improvement.
