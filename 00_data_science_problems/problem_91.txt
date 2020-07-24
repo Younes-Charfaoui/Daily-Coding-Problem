@@ -1,0 +1,3 @@
+This problem was asked by Wayfair.
+
+If you are selling a product and want to decrease the shipment time from 2 days to 1 day to increase your amount of customers, what are 2 ways to quantify it and 2 risks of this idea?
