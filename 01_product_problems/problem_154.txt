@@ -1,0 +1,7 @@
+This problem was recently asked by Microsoft.
+
+What's your favorite subscription-based product?
+
+For this problem we'll be using Amazon Prime.
+
+Make it harder? Follow along and use Amazon Prime as your answer.
