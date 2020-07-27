@@ -1,0 +1,3 @@
+This problem was asked by Snapchat.
+
+You are analyzing the probability of failure or success of a small social media app competitor. Using some initial data, you estimate that any step, if there is are 1 user then after a day there is a 1/12 chance there will be 0 users, 5/12 chance there will be 1 user, and 1/2 chance there will be 2 users. Say the app starts with one user on day 1. What is the probability that the app will eventually have no users?
