@@ -1,0 +1,3 @@
+This problem was asked by Lyft.
+
+Suppose we have two random variables, X and Y, which are bivariate normal. The correlation between them is -0.2. Let A = cX + Y and B = X + cY. For what values of c are A and B independent?
