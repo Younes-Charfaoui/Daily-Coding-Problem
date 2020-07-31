@@ -1,0 +1,3 @@
+This problem was asked by LinkedIn.
+
+LinkedIn recently launched a "status" feature where you can now see if a LinkedIn connection is online, symbolized by a green dot, idle, symbolized by an orange dot, or offline (grey dot) status that says how long ago the user was active. Assume that this feature has been around for a few months. What metrics would you look at to assess the success of this feature?
