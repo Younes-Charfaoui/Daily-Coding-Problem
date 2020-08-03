@@ -1,0 +1,9 @@
+This problem was asked by Uber.
+
+Assume you are given the below table of measurement values from a sensor for several days. Each measurement can happen several times in a given day. Write a query to output the sum of values for every odd measurement and the sum of values for every even measurement by date.
+
+measurements
+column_name	type
+measurement_id	integer
+measurement_value	integer
+measurement_time	datetime
