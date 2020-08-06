@@ -1,0 +1,5 @@
+This problem was asked by Airbnb.
+
+Given a number x, define a palindromic subset as any subsequence within x that is a palindrome. Write a function that returns the number of digits of the longest palindromic subset.
+
+For example, if x is 93567619 then you should return 5 since the longest subset would be 96769, which is a 5 digit number.
