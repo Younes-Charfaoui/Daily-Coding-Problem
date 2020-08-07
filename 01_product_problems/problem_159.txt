@@ -1,0 +1,5 @@
+This problem was asked recently by Spotify.
+
+How many people are streaming music on Spotify right now?
+
+Make it harder? Provide a sanity check before concluding.
