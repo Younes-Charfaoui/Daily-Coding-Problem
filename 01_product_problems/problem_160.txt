@@ -1,0 +1,5 @@
+This problem was recently asked by Tinder.
+
+What are four endpoints we might have on our app?
+
+Make it harder? For each endpoint, define what type of requests they are.
