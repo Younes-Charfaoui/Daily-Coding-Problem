@@ -1,0 +1,5 @@
+This problem was recently asked by edX.
+
+I always like to see how technical interviewees are. Can you list three endpoints on our web app?
+
+Make it harder? List out as much detail as you can!
