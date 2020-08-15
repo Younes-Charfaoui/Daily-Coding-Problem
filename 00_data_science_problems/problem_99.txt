@@ -1,0 +1,3 @@
+This problem was asked by Snapchat.
+
+Say you have a large amount of user data that measures the lifetime of each user. Assume you model each lifetime as exponentially distributed random variables. What is the likelihood ratio for assessing two potential λ values, one from the null hypothesis and the other from the alternative hypothesis?
