@@ -1,0 +1,5 @@
+This problem was recently asked by Facebook.
+
+One thing we're really proud of is GraphQL. Based on your technical knowledge, can you tell me one advantage and one disadvantage of GraphQL?
+
+Make it harder? List out as much detail as you can!
