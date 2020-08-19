@@ -1,0 +1,5 @@
+This problem was recently asked by Invision.
+
+Assume usage on our web app is down 35% - why do you think that might have happened?
+
+Make it harder? Revenue is also down.
