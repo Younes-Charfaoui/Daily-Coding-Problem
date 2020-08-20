@@ -1,0 +1,5 @@
+This question was recently asked by Uber.
+
+Let's say we decided to add a promos tab to our app, how would you measure it's success?
+
+Make it harder? Analyze core behaviors.
