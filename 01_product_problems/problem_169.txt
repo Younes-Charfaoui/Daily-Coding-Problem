@@ -1,0 +1,5 @@
+This problem was asked recently by Instagram.
+
+Estimate the number of likes on Instagram posts per day.
+
+Make it harder? Provide a sanity check before concluding.
