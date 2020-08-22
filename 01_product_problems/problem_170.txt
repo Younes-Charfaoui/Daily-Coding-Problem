@@ -1,0 +1,5 @@
+This question was recently asked by Google.
+
+Imagine that you are a PM at Intercom, and you were in charge of building a new feature allowing customers to interact with their leads over SMS. How would you measure it's success?
+
+Make it harder? Analyze core behaviors.
