@@ -1,0 +1,3 @@
+This question was asked by Dropbox.
+
+You are a data scientist who works directly with the CEO. Your boss says she is incredibly ecstatic because the average cost of acquiring a customer is a lot lower than the expected value of a customer. She thinks that the acquisition cost has been minimized and the value of a customer has almost been maximized. Help her interpret the metric and give a suggestion about how she should use it to try and maximize revenue.
