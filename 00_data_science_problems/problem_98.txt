@@ -1,0 +1,4 @@
+This problem was asked by Microsoft.
+
+Explain what Information Gain and Entropy are in a Decision Tree.
+
