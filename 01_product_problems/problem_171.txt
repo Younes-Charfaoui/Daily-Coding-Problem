@@ -1,0 +1,5 @@
+This problem was recently asked by Google.
+
+What happens, technically, when someone does a Google Search?
+
+Make it harder? List out at least five different steps in the process.
