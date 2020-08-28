@@ -1,0 +1,5 @@
+This problem was recently asked by Amazon.
+
+Assume Amazon orders are down 25%. In this scenario, what are your next steps?
+
+Make it harder? The drop occurred over a two week period.
