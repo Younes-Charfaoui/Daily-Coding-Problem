@@ -1,0 +1,5 @@
+This problem was asked by Twitter.
+
+Given a string with lowercase characters and left and right parentheses, remove the minimum number of parentheses so that the string is valid.
+
+For example, if the string is ")a(b((cd)e(f)g)" then return "ab((cd)e(f)g)".
