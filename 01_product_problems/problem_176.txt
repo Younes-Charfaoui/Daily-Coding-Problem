@@ -1,0 +1,5 @@
+This problem was asked recently by Google.
+
+Estimate the number of breaths we take.
+
+Make it harder? Consider at least two edge cases to your base formula.
