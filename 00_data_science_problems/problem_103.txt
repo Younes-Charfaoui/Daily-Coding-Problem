@@ -1,0 +1,3 @@
+This problem was asked by Slack.
+
+What are some metrics you would use to measure user engagement at Slack? How would you be able to tell early whether or not user engagement is declining?
