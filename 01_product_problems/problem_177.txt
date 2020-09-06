@@ -1,0 +1,7 @@
+This problem was recently asked by Shopify.
+
+What's your favorite e-commerce store?
+
+For this problem we'll be using Sephora.
+
+Make it harder? Follow along and use Sephora as your answer.
