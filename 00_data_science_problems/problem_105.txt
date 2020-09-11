@@ -1,0 +1,21 @@
+
+ Data Science Prep
+Good morning!
+
+Here's today's problem:
+
+This problem was asked by Etsy.
+
+Assume you are given the below table on transactions from various product search results from users on Etsy. For every given product keyword, there are multiple positions that being A/B tested, and user feedback is collected on the relevance of results (from 1-5).
+
+There are many displays for each position of every product, each of which is captured by a display_id. Define a highly relevant display as one whereby the corresponding relevance score is at least 4.
+
+Write a query to get all products having at least one position with > 80% highly relevant displays.
+
+product_searches
+column_name	type
+product	string
+position	integer
+display_id	integer
+relevance	integer
+submit_time	datetime
