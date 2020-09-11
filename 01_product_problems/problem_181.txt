@@ -1,0 +1,5 @@
+This question was recently asked by Facebook.
+
+Think of different types of subscription services - design one of your choice.
+
+Make it harder? Choose a product with a physical component.
