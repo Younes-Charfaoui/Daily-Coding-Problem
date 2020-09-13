@@ -1,0 +1,3 @@
+This problem was asked by Tesla.
+
+Say that the lifetime of electric vehicles are modeled using a Gaussian distribution. Each type of electric vehicle has an expected lifetime and a lifetime variance. Say you chose two different types of electric vehicles at random. What is the probability that the two lifetimes will be within n time units?
