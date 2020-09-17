@@ -1,0 +1,5 @@
+This problem was recently asked by Samsung.
+
+One of my favorite publications is The New Yorker. Let's say you were a PM on their digital team and you noticed online orders were down 30%. Figure out why.
+
+Make it harder? Orders dropped rapidly.
