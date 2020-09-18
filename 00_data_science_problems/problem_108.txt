@@ -1,0 +1,3 @@
+This problem was asked by Facebook.
+
+Say you roll three dice and observe the sum of the three rolls. What is the probability that the sum of the outcomes is 12, given that the three rolls are different?
