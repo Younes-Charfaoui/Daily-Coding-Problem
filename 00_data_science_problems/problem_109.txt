@@ -1,0 +1,4 @@
+This problem was asked by Stripe.
+
+Say we have N observations for some variable which we model as being drawn from a Gaussian distribution. What are your best guesses for the parameters of the distribution? Derive it mathematically.
+
