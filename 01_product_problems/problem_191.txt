@@ -1,0 +1,5 @@
+This problem was recently asked by Facebook.
+
+Let's say event creates were down 100% on our app. Why do you think that might have happened?
+
+Make it harder? Gather context from at least six different categories.
