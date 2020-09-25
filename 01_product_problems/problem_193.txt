@@ -1,0 +1,5 @@
+This problem was recently asked by Walmart.
+
+Design the best slippers.
+
+Make it harder? Assume they're for everyday wearers.
