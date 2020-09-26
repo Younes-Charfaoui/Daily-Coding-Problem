@@ -1,0 +1,3 @@
+This problem was asked by Lyft.
+
+Suppose you roll a fair die n times, where n is very large. What is the average time between occurrences of a given number?
