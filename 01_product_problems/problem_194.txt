@@ -1,0 +1,5 @@
+This problem was asked recently by Facebook.
+
+I think quarantine from COVID-19 has taught us as a company a lot. What are ways we could improve how we operate internally if another pandemic struck?
+
+Make it harder? Evaluate at least three different reasons.
