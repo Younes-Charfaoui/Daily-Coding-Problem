@@ -1,0 +1,10 @@
+This problem was asked by Opendoor.
+
+Assume you are given the below table on house prices from various zip codes that have been listed. Write a query to get the top 5 zip codes by market share of house prices for any zip code with at least 10000 houses.
+
+house_listings
+column_name	type
+house_id	integer
+zip_code	integer
+price	float
+listing_date	datetime
