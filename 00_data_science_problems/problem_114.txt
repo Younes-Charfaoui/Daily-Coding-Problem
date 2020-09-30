@@ -1,0 +1,3 @@
+This problem was asked by Robinhood.
+
+Say X and Y are independent and uniformly distributed on (0, 1). What is the expected value of X, given that X > Y?
