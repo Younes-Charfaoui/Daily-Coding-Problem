@@ -1,0 +1,3 @@
+This problem was asked by Snapchat.
+
+You are testing a new feature with various sample groups of three people. Assume that each person is equally likely to be a fan or not a fan of the feature. What is the probability that a randomly chosen group has exactly one fan, given that there is a fan among the three?
