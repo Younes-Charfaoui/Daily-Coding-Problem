@@ -1,0 +1,5 @@
+This problem was asked recently by Facebook.
+
+Estimate the number of likes on Facebook posts per day.
+
+Make it harder? Provide a sanity check before concluding.
