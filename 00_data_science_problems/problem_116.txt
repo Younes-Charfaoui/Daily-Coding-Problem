@@ -1,0 +1,5 @@
+This problem was asked by Lyft.
+
+Given an array A of positive integers and an integer k, write a function to get the largest value within the sliding window of size k for A. Each sliding window is k numbers and moves from the leftmost to the rightmost within A, one position at a time.
+
+For example, if A = [2, 5, 3, 1, 4] and n = 2, then you should return [5, 5, 3, 4].
