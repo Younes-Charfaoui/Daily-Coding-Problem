@@ -1,0 +1,5 @@
+This problem was recently asked by HelloFresh.
+
+Let's say our meal kit first month churn increased by 40%. What would you do?
+
+Make it harder? Assume conversion is down across the industry.
