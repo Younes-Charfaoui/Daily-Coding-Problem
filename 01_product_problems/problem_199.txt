@@ -1,0 +1,5 @@
+This problem was recently asked by Spotify.
+
+How would you find out what caused a 25% decrease in song listens?
+
+Make it harder? Assume conversion is down across the industry.
