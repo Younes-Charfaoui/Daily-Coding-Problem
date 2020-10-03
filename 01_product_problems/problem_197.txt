@@ -1,0 +1,5 @@
+This problem was recently asked by Notion.
+
+How would you find out what caused a 25% decrease in conversion?
+
+Make it harder? Mobile conversion dropped more than web conversion.
