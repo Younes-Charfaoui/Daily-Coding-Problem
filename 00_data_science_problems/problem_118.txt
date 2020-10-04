@@ -1,0 +1,3 @@
+This problem was asked by Airbnb.
+
+Suppose you are running a linear regression and model the error terms as being normally distributed. Show that in this setup, maximizing the likelihood of the data is equivalent to minimizing the sum of squared residuals.
