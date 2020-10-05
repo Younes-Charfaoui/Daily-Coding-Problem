@@ -20,7 +20,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 * **Younes Charfaoui** - *Initial work* - [YounesCharfaoui](https://github.com/Younes-Charfaoui)
 
-See also the list of [contributors](https://github.com/Younes-Charfaoui/Daily-Coding-Problem/graphs/contributors) who participated in this project.
+
 
 ## License
 
