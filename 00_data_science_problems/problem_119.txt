@@ -1,0 +1,5 @@
+This problem was asked by Apple.
+
+Given two sorted arrays of positive integers, and an integer k, determine the k smallest pairs among the two arrays, where a pair is defined as having exactly one element from the first array and one element from the second array.
+
+For example, if the k = 3 and the two arrays are [1, 3, 6, 10] and [2, 5, 7, 9] then [[1, 2], [3, 2], [1, 5]] since those are the three smallest pairs.
