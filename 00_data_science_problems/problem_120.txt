@@ -1,0 +1,11 @@
+This problem was asked by Etsy.
+
+Assume you are given the below table on transactions from users for purchases. Write a query to get the list of customers where their earliest purchase was at least $50.
+
+user_transactions
+column_name	type
+transaction_id	integer
+product_id	integer
+user_id	integer
+spend	float
+transaction_date	datetime
