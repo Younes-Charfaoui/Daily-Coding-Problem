@@ -1,0 +1,5 @@
+This problem was recently asked by Disney.
+
+Continually learning is a common theme for our product team. One way we do that is by listening to inspirational speakers online through TED Talks. How would you improve TED?
+
+Make it harder? Focus on web improvements.
