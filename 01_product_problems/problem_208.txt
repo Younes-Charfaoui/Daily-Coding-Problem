@@ -1,0 +1,5 @@
+This question was recently asked by Google.
+
+Design a cereal dispenser.
+
+Make it harder? Build for those over the age of 65.
