@@ -1,0 +1,5 @@
+This problem was recently asked by Top Hat.
+
+List three endpoints we have on our digital classroom product.
+
+Make it harder? List out at least one POST request and one GET request.
