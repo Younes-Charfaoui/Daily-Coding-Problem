@@ -1,0 +1,3 @@
+This problem was asked by Twilio.
+
+You are modeling the wait time a customer has for a support call as exponentially distributed with a mean of 10 minutes. Suppose a customer calls in and is told that all lines are currently busy, and the most recent last spot was occupied 5 minutes ago. What is the probability that the current customer will need to wait no more than another 5 minutes?
