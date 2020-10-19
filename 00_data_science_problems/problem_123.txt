@@ -1,0 +1,5 @@
+This problem was asked by Opendoor.
+
+Given a string, return the count of substrings within the string that are palindromes.
+
+For example, if input is "aba": return 4, since the palindromes are: "a", "b", "a", and "aba".
