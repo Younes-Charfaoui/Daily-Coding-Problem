@@ -1,0 +1,5 @@
+This problem was recently asked by Discord.
+
+What are three endpoints on our app?
+
+Make it harder? List out at least one POST request and one GET request.
