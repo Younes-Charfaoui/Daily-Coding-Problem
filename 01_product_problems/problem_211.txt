@@ -1,0 +1,5 @@
+This question was recently asked by Apple.
+
+If you were the product manager for FaceTime, how would you measure it's success?
+
+Make it harder? Evaluate at least three different behaviors.
