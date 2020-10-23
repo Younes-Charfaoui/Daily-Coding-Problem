@@ -1,0 +1,5 @@
+This problem was recently asked by Spotify.
+
+Patreon is an extremely popular subscription based app nowadays. How would you improve it?
+
+Make it harder? Offer at least one small improvement and one big improvement.
