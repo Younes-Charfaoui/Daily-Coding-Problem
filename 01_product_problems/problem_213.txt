@@ -1,0 +1,7 @@
+This problem was recently asked by Wayfair.
+
+What's your favorite marketplace app besides Wayfair?
+
+For this problem we'll be using Ritual.
+
+Make it harder? Follow along and use Ritual as your answer.
