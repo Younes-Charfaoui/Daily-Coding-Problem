@@ -1,0 +1,5 @@
+This problem was asked recently by Google.
+
+How many chickens are there in the world?
+
+Make it harder? Provide a sanity check before concluding.
