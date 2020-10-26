@@ -1,0 +1,5 @@
+This problem was recently asked by SendGrid.
+
+How would you diagnose a 35% drop in email opens from SendGrid?
+
+Make it harder? Assume all other metrics remain consistent.
