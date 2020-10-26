@@ -1,0 +1,3 @@
+This problem was asked by Stripe.
+
+Describe the model formulation behind logistic regression. How do you maximize the log-likelihood of a given model (using the two-class case)?
