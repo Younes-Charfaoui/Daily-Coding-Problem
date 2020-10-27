@@ -1,0 +1,11 @@
+This problem was asked by Disney.
+
+Assume you are given the below table on watch times (in minutes) for all users, where each user is based in a given city. Write a query to return all pairs of cities that have total watch times within 10000 minutes of one another.
+
+watch_activity
+column_name	type
+user_id	integer
+session_id	integer
+watch_time	float
+city_name	string
+date	datetime
