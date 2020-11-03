@@ -1,0 +1,5 @@
+This problem was asked recently by Microsoft.
+
+How many messages are sent on Slack each day?
+
+Make it harder? Provide a sanity check before concluding.
