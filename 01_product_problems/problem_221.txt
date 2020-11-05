@@ -1,0 +1,5 @@
+This question was recently asked by StickerGiant.
+
+How do you think we measure the success of our web pages?
+
+Make it harder? Evaluate at least three different behaviors.
