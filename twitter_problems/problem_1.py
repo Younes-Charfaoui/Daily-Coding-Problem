@@ -10,6 +10,13 @@ strings [dog, deer, deal], return [deer, deal]."""
 
 # traditional solution -_-
 def auto_complete(arr, string):
+    """
+    Auto - complete complete complete complete complete complete
+
+    Args:
+        arr: (array): write your description
+        string: (str): write your description
+    """
     result = []
     for s in arr:
         if len(s) >= len(string):

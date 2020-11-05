@@ -6,9 +6,21 @@ f and an integer n, and calls f after n milliseconds."""
 import time as t
 
 def dummy():
+    """
+    Dummy dummy
+
+    Args:
+    """
     print("I'm Called")
 
 def job_scheduller(f,n):
+    """
+    Schedullerller function f.
+
+    Args:
+        f: (array): write your description
+        n: (array): write your description
+    """
     start = t.time()*1000
     end = start + n
     while start < end:

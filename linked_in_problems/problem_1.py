@@ -9,6 +9,13 @@ equal to the root and the key in the right child must be greater than or equal t
 class Node:
 
     def __init__(self, data=None):
+        """
+        Initialize data.
+
+        Args:
+            self: (todo): write your description
+            data: (todo): write your description
+        """
         self.data = data
         self.right = None
         self.left = None
@@ -17,9 +24,22 @@ class Node:
 class BinaryTree:
 
     def __init__(self):
+        """
+        Initialize the root node.
+
+        Args:
+            self: (todo): write your description
+        """
         self.root = None
 
     def insert(self, data):
+        """
+        Insert data to root.
+
+        Args:
+            self: (todo): write your description
+            data: (dict): write your description
+        """
         node = Node(data)
         if not self.root:
             self.root = node
@@ -27,6 +47,14 @@ class BinaryTree:
             self.insert_node(data, self.root)
 
     def insert_node(self, data, node):
+        """
+        Insert node at the tree.
+
+        Args:
+            self: (todo): write your description
+            data: (todo): write your description
+            node: (todo): write your description
+        """
         if data < node.data:
             if node.left:
                 self.insert_node(data, node.left)
@@ -39,9 +67,22 @@ class BinaryTree:
                 node.right = Node(data)
 
     def is_valid(self):
+        """
+        Return true if the node is valid.
+
+        Args:
+            self: (todo): write your description
+        """
         return valid_node(self.root)
 
     def valid_node(self, node):
+        """
+        Validate node is a valid.
+
+        Args:
+            self: (todo): write your description
+            node: (todo): write your description
+        """
         if node:
             if node.left:
                 if node.left.data > node.data :

@@ -1,14 +1,35 @@
 class Element(object):
     def __init__(self, value):
+        """
+        Initialize a new value.
+
+        Args:
+            self: (todo): write your description
+            value: (todo): write your description
+        """
         self.value = value
         self.next = None
 
 
 class LinkedList(object):
     def __init__(self, head=None):
+        """
+        Initialize the head.
+
+        Args:
+            self: (todo): write your description
+            head: (todo): write your description
+        """
         self.head = head
 
     def append(self, new_element):
+        """
+        Append a new element to the end of the list.
+
+        Args:
+            self: (todo): write your description
+            new_element: (todo): write your description
+        """
         current = self.head
         if self.head:
             while current.next:
@@ -18,6 +39,13 @@ class LinkedList(object):
             self.head = new_element
 
     def get_position(self, position):
+        """
+        Return the position of the current node.
+
+        Args:
+            self: (todo): write your description
+            position: (todo): write your description
+        """
         counter = 1
         current = self.head
         if position < 1:
@@ -30,6 +58,14 @@ class LinkedList(object):
         return None
 
     def insert(self, new_element, position):
+        """
+        Inserts the current position at position.
+
+        Args:
+            self: (todo): write your description
+            new_element: (todo): write your description
+            position: (int): write your description
+        """
         counter = 1
         current = self.head
         if position > 1:
@@ -44,6 +80,13 @@ class LinkedList(object):
             self.head = new_element
 
     def delete(self, value):
+        """
+        Remove the first item from the list.
+
+        Args:
+            self: (todo): write your description
+            value: (str): write your description
+        """
         current = self.head
         previous = None
         while current.value != value and current.next:
@@ -56,6 +99,12 @@ class LinkedList(object):
                 self.head = current.next
 
     def print_list(self):
+        """
+        Prints a list.
+
+        Args:
+            self: (todo): write your description
+        """
         result = []
         current = self.head
         while current:

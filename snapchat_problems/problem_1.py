@@ -6,6 +6,12 @@ For example, given [(30, 75), (0, 50), (60, 150)], you should return 2.
 
 
 def find_small(array):
+    """
+    Find the smallest item in array.
+
+    Args:
+        array: (array): write your description
+    """
     mina = array[0][0]
     index = 0
     for ind in range(len(array)):
@@ -15,6 +21,13 @@ def find_small(array):
 
 
 def big_all(value, array):
+    """
+    Return true if value is a list of integers.
+
+    Args:
+        value: (str): write your description
+        array: (array): write your description
+    """
     result = True
     for i in array:
         if i > value:

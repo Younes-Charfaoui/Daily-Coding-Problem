@@ -10,6 +10,13 @@ sums up to 24.
 
 # function to filter element smaller than k.
 def subset_sum(nums, k):
+    """
+    Return the k k k k k k k k.
+
+    Args:
+        nums: (list): write your description
+        k: (todo): write your description
+    """
     if k == 0:
         return []
     if not nums and k != 0:

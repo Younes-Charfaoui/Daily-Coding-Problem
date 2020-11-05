@@ -10,6 +10,11 @@ Given the multiset {15, 5, 20, 10, 35}, it would return false, since we can't
 split it up into two subsets that add up to the same sum."""
 
 def doesMain():
+    """
+    Calculate the sum of the data.
+
+    Args:
+    """
 	data = [15,5,20,10,35,15,10]
 	data.sort()
 	total = sum(data)
@@ -19,6 +24,14 @@ def doesMain():
 		return False
 
 def contain(array , number , index):
+    """
+    Return true if the array is contained in the array.
+
+    Args:
+        array: (array): write your description
+        number: (int): write your description
+        index: (int): write your description
+    """
 	if index == len(array):
 		return True
 	if array[index] == number:
@@ -29,6 +42,12 @@ def contain(array , number , index):
 		return contain(array, number, index+1)
 
 def sum(array):
+    """
+    Return the sum of all elements.
+
+    Args:
+        array: (array): write your description
+    """
 	result = 0
 	for i in array:
 		result += i

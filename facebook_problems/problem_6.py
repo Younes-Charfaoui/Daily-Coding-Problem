@@ -11,6 +11,12 @@ would run off to the left), so we can trap 8 units of water.
 
 
 def main(array):
+    """
+    : param array.
+
+    Args:
+        array: (array): write your description
+    """
     if len(array) < 3:
         return 0
     start = array[0]

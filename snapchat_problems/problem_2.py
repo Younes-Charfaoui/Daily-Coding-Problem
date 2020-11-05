@@ -8,6 +8,12 @@ you should return [(1, 3), (4, 10), (20, 25)]
 
 
 def find_small(array):
+    """
+    Find the smallest item in array.
+
+    Args:
+        array: (array): write your description
+    """
     mina = array[0][0]
     index = 0
     for ind in range(len(array)):

@@ -9,13 +9,32 @@ inserts an element into the queue, and dequeue, which removes it.
 class Queue:
 
     def __init__(self):
+        """
+        Initialize the bounding boxes
+
+        Args:
+            self: (todo): write your description
+        """
         self.inbounds = []
         self.outbounds = []
 
     def enqueue(self, data):
+        """
+        Enqueue data to the queue.
+
+        Args:
+            self: (todo): write your description
+            data: (array): write your description
+        """
         self.inbounds.append(data)
 
     def dequeue(self):
+        """
+        Dequeue all the items from the queue.
+
+        Args:
+            self: (todo): write your description
+        """
         if not self.outbounds:
             while self.inbounds:
                 self.outbounds.append(self.inbounds.pop())

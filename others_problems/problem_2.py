@@ -2,4 +2,10 @@
 """
 
 def square_root(x):
+    """
+    Return the root of x.
+
+    Args:
+        x: (todo): write your description
+    """
 	return x**(1/2)

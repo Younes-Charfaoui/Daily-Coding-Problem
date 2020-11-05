@@ -12,6 +12,12 @@ You can modify the input array in-place."""
 
 # function to the main problem
 def find_missing_value(array):
+    """
+    Finds the missing missing value.
+
+    Args:
+        array: (array): write your description
+    """
     # sorting the array
     array.sort()
 

@@ -14,14 +14,33 @@ so that the amortized time for any push, pop, or pull operation is O(1)
 
 class Quack:
     def __init__(self):
+        """
+        Initialize the buffer.
+
+        Args:
+            self: (todo): write your description
+        """
         self.right = []
         self.left = []
         self.buffer = []
 
     def push(self, x):
+        """
+        Push a new value at x.
+
+        Args:
+            self: (todo): write your description
+            x: (int): write your description
+        """
         self.left.append(x)
 
     def pop(self):
+        """
+        Remove and return value from the stack.
+
+        Args:
+            self: (todo): write your description
+        """
         if not self.left and not self.right:
             raise IndexError('pop from empty quack')
 
@@ -40,6 +59,12 @@ class Quack:
         return self.left.pop()
 
     def pull(self):
+        """
+        Pull the buffers from the buffer.
+
+        Args:
+            self: (todo): write your description
+        """
         if not self.left and not self.right:
             raise IndexError('pull from empty quack')
 

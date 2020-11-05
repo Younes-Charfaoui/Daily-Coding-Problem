@@ -15,10 +15,23 @@ nodes and memory addresses."""
 class XorLinked(object):
 
     def __init__(self):
+        """
+        Initialize the object.
+
+        Args:
+            self: (todo): write your description
+        """
         self.length = 0
         self.head = None
 
     def add(self, element):
+        """
+        Add an element to this node.
+
+        Args:
+            self: (todo): write your description
+            element: (todo): write your description
+        """
         if self.length == 0:
             nod = Node(element,0)
             self.head = element
@@ -26,15 +39,35 @@ class XorLinked(object):
 
 
 def get_pointer(node):
+    """
+    Return the pointer of a node.
+
+    Args:
+        node: (todo): write your description
+    """
     return 15
 
 def dereference_pointer(pointer):
+    """
+    Dereference a pointer pointer.
+
+    Args:
+        pointer: (int): write your description
+    """
     return Node(12,2)
 
 # class of structure of node.
 class Node(object):
 
     def __init__(self, value, xor):
+        """
+        Initialize the pointer.
+
+        Args:
+            self: (todo): write your description
+            value: (todo): write your description
+            xor: (todo): write your description
+        """
         self.value = value
         self.xor_pointer = xor
 

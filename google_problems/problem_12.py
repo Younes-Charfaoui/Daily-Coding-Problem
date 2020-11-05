@@ -10,6 +10,13 @@ import math
 
 
 def main(one, two):
+    """
+    Main function.
+
+    Args:
+        one: (str): write your description
+        two: (int): write your description
+    """
     if len(one) > len(two):
         small = len(two)
     else:

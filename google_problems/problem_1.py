@@ -26,6 +26,13 @@ def numbers_add_up_to_k(array, k):
 
 # This function search a number in an array and return true if the number is in.
 def is_number_in(array, number):
+    """
+    Check if an array is in numpy array.
+
+    Args:
+        array: (array): write your description
+        number: (int): write your description
+    """
     for n in array:
         if n == number:
             return True

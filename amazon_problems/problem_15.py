@@ -8,6 +8,12 @@ daily should return false, since there's no rearrangement that can form a palind
 """
 #idea : we can't have more than one letter that has an odd frequency
 def solve(s):
+    """
+    Solve a frequency frequency algorithm.
+
+    Args:
+        s: (array): write your description
+    """
     freq = [0] * 256
     for c in s:
         freq[ord(c)] += 1
