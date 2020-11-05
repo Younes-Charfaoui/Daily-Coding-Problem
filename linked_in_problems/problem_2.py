@@ -16,6 +16,12 @@ And here are examples of non-numbers:
 """
 
 def number(data):
+    """
+    Yields a number
+
+    Args:
+        data: (array): write your description
+    """
 	first = data[0]
 	real = False
 	positive = True

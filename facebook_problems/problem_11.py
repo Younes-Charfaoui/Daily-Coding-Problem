@@ -11,12 +11,26 @@ Given a 5 by 5 matrix, there are 70 ways to get to the bottom-right.
 
 
 def main():
+    """
+    Main function.
+
+    Args:
+    """
     N = 5
     M = 5
     print(number_ways(N, M, 0, 0))
 
 
 def number_ways(n, m, i, j):
+    """
+    Return number n i th number n at i.
+
+    Args:
+        n: (int): write your description
+        m: (int): write your description
+        i: (int): write your description
+        j: (int): write your description
+    """
     if i + 1 == n and j + 1 == m:
         return 1
     if i + 1 == n:

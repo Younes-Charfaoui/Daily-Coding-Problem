@@ -24,11 +24,24 @@ from collections import deque
 class Node:
 
     def __init__(self, data=None):
+        """
+        Initialize data.
+
+        Args:
+            self: (todo): write your description
+            data: (todo): write your description
+        """
         self.data = data
         self.right = None
         self.left = None
 
     def invert_node(self):
+        """
+        Invert the node.
+
+        Args:
+            self: (todo): write your description
+        """
         right = self.right
         self.right = self.left
         self.left = right
@@ -37,9 +50,22 @@ class Node:
 class BinaryTree:
 
     def __init__(self, root=None):
+        """
+        Initialize the root node.
+
+        Args:
+            self: (todo): write your description
+            root: (str): write your description
+        """
         self.root = root
 
     def invert(self):
+        """
+        Invert a node from the current node.
+
+        Args:
+            self: (todo): write your description
+        """
         queue = deque()
         queue.append(self.root)
         while queue:
@@ -51,6 +77,12 @@ class BinaryTree:
             node.invert_node()
 
     def breadth_traversal(self):
+        """
+        Returns a list of nodes in the dfs.
+
+        Args:
+            self: (todo): write your description
+        """
         list_nodes = []
         queue = deque([self.root])
         while len(queue) > 0:

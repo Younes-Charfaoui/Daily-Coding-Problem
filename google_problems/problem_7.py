@@ -17,6 +17,13 @@ You can simply print them out as you compute them."""
 
 # the solution functions.
 def max_value(arr, k):
+    """
+    Returns the maximum value of arr.
+
+    Args:
+        arr: (array): write your description
+        k: (todo): write your description
+    """
     start = 0
     end = k
     while end <= len(arr):

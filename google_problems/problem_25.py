@@ -22,6 +22,11 @@ You should return 2, since bishops 1 and 3 attack each other, as well as bishops
 
 
 def main():
+    """
+    Main function.
+
+    Args:
+    """
     m = 5
     tuples = [(0, 0), (0, 1), (2, 2), (2, 4)]
     left = 0

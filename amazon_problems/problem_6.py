@@ -14,6 +14,12 @@ Do this in O(N) time.
 
 
 def solve(arr):
+    """
+    Solve arr.
+
+    Args:
+        arr: (array): write your description
+    """
     mx = 0
     sum = 0
     for a in arr:

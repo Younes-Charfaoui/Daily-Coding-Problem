@@ -8,11 +8,22 @@ return the second instance.
 class Signleton():
 
 	def __init__(self):
+     """
+     Initialize the instance.
+
+     Args:
+         self: (todo): write your description
+     """
 		self.instance_one = None
 		self.instance_two = None
 		self.counter = 0
 
 	def get_instance():
+     """
+     Returns the instance of the instance is_one.
+
+     Args:
+     """
 		if self.counter == 0:
 			self.instance_one = Signleton()
 			self.instance_two = Signleton()

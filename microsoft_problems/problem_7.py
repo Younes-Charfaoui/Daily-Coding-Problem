@@ -5,6 +5,12 @@ For example, given 1, you should return 19. Given 2, you should return 28"""
 
 
 def make_perfect(number):
+    """
+    Convert a number.
+
+    Args:
+        number: (int): write your description
+    """
     value = 10 - int(sum_number(str(number)))
     if value == 0:
         return number
@@ -13,6 +19,12 @@ def make_perfect(number):
 
 
 def sum_number(number):
+    """
+    Returns the number
+
+    Args:
+        number: (int): write your description
+    """
     if int(number) <= 10:
         return int(number)
     else:
@@ -20,6 +32,12 @@ def sum_number(number):
 
 
 def count(number):
+    """
+    Return the number in the string.
+
+    Args:
+        number: (int): write your description
+    """
     arr = str(number)
     r = 0
     for i in arr:

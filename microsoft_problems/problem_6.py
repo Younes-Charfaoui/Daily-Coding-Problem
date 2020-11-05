@@ -20,6 +20,11 @@ requested_word = "IPBS"
 
 
 def get_all_words():
+    """
+    Returns a list of words.
+
+    Args:
+    """
     result = []
     current = ""
     for i in range(len(matrix)):

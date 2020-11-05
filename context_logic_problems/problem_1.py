@@ -5,6 +5,13 @@ multiplication, or modulus operators. Return the quotient as an integer, ignorin
 
 # main method for making division, quiet easy: just subtract second nomber for the first until 0. and count.
 def division(a,b):
+    """
+    Finds the two numbers.
+
+    Args:
+        a: (todo): write your description
+        b: (todo): write your description
+    """
     i=0
     while a >= b:
         i += 1

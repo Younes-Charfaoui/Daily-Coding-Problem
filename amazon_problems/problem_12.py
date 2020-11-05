@@ -9,6 +9,13 @@ A bit array is a space efficient array that holds a value of 1 or 0 at each inde
 class BitArray:
 
 	def __init__(self, size):
+     """
+     Initialize the data.
+
+     Args:
+         self: (todo): write your description
+         size: (int): write your description
+     """
 		self.data=[]
 		self.size = size
 		for i in range(size):
@@ -19,5 +26,11 @@ class BitArray:
 			self.data[i] = val
 
 	def get(i):
+     """
+     Get the size of the i - th i
+
+     Args:
+         i: (int): write your description
+     """
 		if 0 <= size < self.size
 			return data[i]

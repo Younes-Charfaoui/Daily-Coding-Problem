@@ -16,6 +16,13 @@ from data_structure.linked_list import LinkedList, Element
 
 # solution to the problem
 def main(listOne, listTwo):
+    """
+    Main function.
+
+    Args:
+        listOne: (todo): write your description
+        listTwo: (todo): write your description
+    """
     l1 = listOne.print_list()
     l2 = listTwo.print_list()
     for i in l1:

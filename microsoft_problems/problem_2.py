@@ -19,6 +19,12 @@ should print out:
 
 
 def sort(array):
+    """
+    Sort an array into a.
+
+    Args:
+        array: (array): write your description
+    """
     for i in range(len(array)):
         for j in range(i + 1, len(array)):
             if array[i] > array[j]:
@@ -29,6 +35,12 @@ def sort(array):
 
 
 def median(array):
+    """
+    Return the median of an array.
+
+    Args:
+        array: (array): write your description
+    """
     new_list = sort(array)
     if len(new_list) % 2 == 1:
         return new_list[(len(new_list) // 2)]
@@ -37,6 +49,12 @@ def median(array):
 
 
 def main(array):
+    """
+    Main function.
+
+    Args:
+        array: (array): write your description
+    """
     for i in range(len(array)):
         print(median(array[0:i + 1]))
 

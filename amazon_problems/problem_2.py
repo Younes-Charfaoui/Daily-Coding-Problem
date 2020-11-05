@@ -8,6 +8,13 @@ distinct characters is "bcb"."""
 
 
 def main(s, k):
+    """
+    Main function.
+
+    Args:
+        s: (int): write your description
+        k: (int): write your description
+    """
     start = 0
     current = ""
     max_lengths = 0
@@ -26,6 +33,12 @@ def main(s, k):
 
 
 def count_character(string):
+    """
+    Counts the number of characters in string.
+
+    Args:
+        string: (str): write your description
+    """
     current = [string[0]]
     counter = 1
     for i in string:

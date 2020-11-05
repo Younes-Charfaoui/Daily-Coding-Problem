@@ -54,6 +54,11 @@ e = [[1, 2, 3, 4],
 
 
 def main():
+    """
+    Main function.
+
+    Args:
+    """
     matrix = e
     rs = 0
     re = len(matrix) - 1

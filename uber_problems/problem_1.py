@@ -8,6 +8,12 @@ would be [2, 3, 6]. Follow-up: what if you can't use division? """
 
 # function to get the product of elements inside an array.
 def get_array_product(array):
+    """
+    Get product : class : class : numpy. product.
+
+    Args:
+        array: (array): write your description
+    """
     product = 1
     for i in array:
         product *= i
@@ -16,6 +22,12 @@ def get_array_product(array):
 
 # this function does the main job of the problem but with division.
 def get_new_array_division(array):
+    """
+    Returns a new array with the same length as the new array
+
+    Args:
+        array: (array): write your description
+    """
     # array holding the final result
     new_array = []
     # getting the product of the array elements.
@@ -31,6 +43,12 @@ def get_new_array_division(array):
 
 # this function does the main job of the problem without division.(a to -1 power)
 def get_new_array(array):
+    """
+    Return a new array with the new product.
+
+    Args:
+        array: (array): write your description
+    """
     # array holding the final result
     new_array = []
     # getting the product of the array elements.
@@ -46,6 +64,12 @@ def get_new_array(array):
 
 # This function does the main job of the problem without division.(a to -1 power)
 def get_new_array_hard(array):
+    """
+    Return a new array with new arrays.
+
+    Args:
+        array: (array): write your description
+    """
     # array holding the final result
     new_array = []
 

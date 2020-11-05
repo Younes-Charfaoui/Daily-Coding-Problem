@@ -10,6 +10,12 @@ You can assume the string to be decoded is valid """
 
 
 def main(string):
+    """
+    Main entry point for the main ().
+
+    Args:
+        string: (str): write your description
+    """
     if len(string) == 0:
         return ""
     else:

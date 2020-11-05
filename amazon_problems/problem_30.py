@@ -11,4 +11,10 @@ Constraint: don't use any loops.
 import numpy as np
 
 def number_of_digit(x):
+    """
+    Returns the number of x in x.
+
+    Args:
+        x: (int): write your description
+    """
 	return np.floor(np.log10(x,10)) + 1

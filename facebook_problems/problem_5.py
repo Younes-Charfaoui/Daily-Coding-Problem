@@ -9,6 +9,12 @@ import math
 
 # code each character with a number
 def code(i):
+    """
+    Input : i - th code
+
+    Args:
+        i: (todo): write your description
+    """
     if i == "(":
         return 1
     elif i == ")":
@@ -25,6 +31,12 @@ def code(i):
 
 # main function of the problem
 def validate(arr):
+    """
+    Check if arr is_array
+
+    Args:
+        arr: (array): write your description
+    """
     new_array = []
     for i in arr:
         new_array.append(code(i))
@@ -49,6 +61,13 @@ def validate(arr):
 
 # check is the tow values or conformed with each other
 def check(a, b):
+    """
+    Returns true if a and b are equal.
+
+    Args:
+        a: (todo): write your description
+        b: (todo): write your description
+    """
     if math.fabs(a) == math.fabs(b) and a * b < 0:
         return True
     return False
