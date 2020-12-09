@@ -1,0 +1,5 @@
+This problem was recently asked by Samsung.
+
+Design a smart picture frame.
+
+Make it harder? Assume they're for the tech-savvy millennial.
