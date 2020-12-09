@@ -1,0 +1,5 @@
+This problem was asked recently by Google.
+
+How many phone calls are received per day?
+
+Make it harder? Provide a sanity check before concluding.
