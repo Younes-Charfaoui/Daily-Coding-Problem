@@ -1,0 +1,5 @@
+This problem was asked recently by Google.
+
+How many bottles of wine are opened per day?
+
+Make it harder? Provide a sanity check before concluding.
