@@ -1,0 +1,3 @@
+What are three endpoints on YouTube?
+
+Make it harder? List out at least one POST request and one GET request.
