@@ -1,0 +1,5 @@
+What's your favorite product?
+
+For this problem we'll be using Kickstarter.
+
+Make it harder? Follow along and use Kickstarter as your answer.
