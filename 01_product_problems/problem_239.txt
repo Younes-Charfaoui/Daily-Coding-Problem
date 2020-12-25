@@ -1,0 +1,3 @@
+Go into detail about what happens when a user logs in to an app.
+
+Make it harder? List at least five specific steps.
