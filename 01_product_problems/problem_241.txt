@@ -1,0 +1,5 @@
+What's your favorite enterprise app? Please don't use HubSpot.
+
+For this problem we'll be using Google Analyticsl.
+
+Make it harder? Follow along and use Google Analytics as your answer.
