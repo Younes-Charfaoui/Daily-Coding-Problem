@@ -9,33 +9,3 @@ returns the node at index.
 If using a language that has no pointers (such as Python), you can assume you have
 access to get_pointer and dereference_pointer functions that converts between
 nodes and memory addresses."""
-
-
-# Creating a class for the main linked list
-class XorLinked(object):
-
-    def __init__(self):
-        self.length = 0
-        self.head = None
-
-    def add(self, element):
-        if self.length == 0:
-            nod = Node(element,0)
-            self.head = element
-
-
-
-def get_pointer(node):
-    return 15
-
-def dereference_pointer(pointer):
-    return Node(12,2)
-
-# class of structure of node.
-class Node(object):
-
-    def __init__(self, value, xor):
-        self.value = value
-        self.xor_pointer = xor
-
-

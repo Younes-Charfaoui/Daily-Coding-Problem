@@ -19,23 +19,3 @@ The board would look like this:
 [b 0 0 0 0]
 You should return 2, since bishops 1 and 3 attack each other, as well as bishops 3 and 4
 """
-
-
-def main():
-    m = 5
-    tuples = [(0, 0), (0, 1), (2, 2), (2, 4)]
-    left = 0
-    right = 0
-    for i in tuples:
-        if i[0] == i[1]:
-            left += 1
-    for t in tuples:
-        for i in range(m - 1, -1, -1):
-            for j in range(m):
-                print(i)
-                print(j)
-                if t[0] == j and t[1] == i:
-                    right += 1
-
-
-main()

@@ -8,32 +8,3 @@ Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index,
 2 in the second, and 3 in the fourth index (we cannot hold 5 since it
 would run off to the left), so we can trap 8 units of water.
 """
-
-
-def main(array):
-    if len(array) < 3:
-        return 0
-    start = array[0]
-    end = array[len(array) - 1]
-
-    if start < end:
-        small = start
-    else:
-        small = end
-
-    output = 0
-    if start == end:
-        for i in array:
-            value = start - i
-            if value > 0:
-                output += value
-    else:
-        for i in array:
-            value = small - i
-            if value > 0:
-                output += value
-    return output
-
-
-print(main([2, 1, 2]))
-print(main([3, 0, 1, 3, 0, 5]))
