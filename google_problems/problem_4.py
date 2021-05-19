@@ -37,27 +37,33 @@ class BSTNode:
          else:
             self.left.add_child(data)
       
-   def count_sub_trees(self, k=0):
+   def in_order(self):
+      elements = []
+      if self.left:
+         elements += self.left.in_order()
+      elements.append(self.data)
+      if self.right:
+         elements += self.right.in_order()
+      return elements
+
+
+        
+      
+   def count_sub_trees(self):
       right_node = self.right is None
       left_node  = self.left is None
+      k = 0
       if right_node and left_node:
          return k
       if not right_node and left_node:
-         return k + self.right.count_sub_trees(k) 
+         k += 1 
+         self.right.count_sub_trees() 
       if right_node or not left_node: 
-         return k + self.left.count_sub_trees(k) 
+         k += 1 
+         self.left.count_sub_trees() 
       if not right_node and not left_node:    
-         return self.left.count_sub_trees(k) + self.right.count_sub_trees(k) + k
-
-   def nodes(self, arr=[]):
-      if self.left:
-         arr.append(self.data)
-         self.left.nodes(arr)
-      if self.right:
-         arr.append(self.data)
-         self.right.nodes(arr)
-      arr = arr.append(self.data)
-      return arr
+         k += 2 
+         self.left.count_sub_trees() + self.right.count_sub_trees()
 
       
       
@@ -71,7 +77,7 @@ def emplement_tree():
    tree.add_child(1)
    tree.add_child(1)
    tree.add_child(1)
-   print(tree.nodes())
+   print(tree.count_sub_trees())
 
 if __name__ == "__main__":
    emplement_tree()
