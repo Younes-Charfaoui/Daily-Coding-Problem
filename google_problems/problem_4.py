@@ -6,70 +6,72 @@ Given the root to a binary tree, count the number of unival subtrees.
 
 For example, the following tree has 5 unival subtrees:
 
-   0
-  / \
- 1   0
-    / \
-   1   0
-  / \
- 1   1
-/\   / \
-0 1  1   0
-        / \
-       1   0
+            0
+           / \
+          1   0
+         /\   / \
+        1  0 1   0
+            / \
+           1   1
 """
 
 # FRIST WE NEED TO EMPLEMENT A TREE
 
-class Tree:
+class BSTNode:
    def __init__(self, data):
       self.data = data
       self.right = None
       self.left = None
-      self.root = None
 
    def add_child(self, data):
-      if self.right and data > self.right.data:
+      if self.data > data:
+         if self.right is None:
+            self.right = BSTNode(data)
+            return
+         else:
+            self.right.add_child(data)
+      else:
          if self.left is None:
-            new_tree = Tree(data)
-            new_tree.root = self.left
-            self.left = new_tree
-            return self.left
-         self.left.add_child(data)
-
-      if self.right is None:
-         new_tree = Tree(data)
-         new_tree.root = self.right
-         self.right = new_tree
-         return self.right
-      self.right.add_child(data)
+            self.left = BSTNode(data)
+            return
+         else:
+            self.left.add_child(data)
       
-   def count_sub_trees(self):
+   def count_sub_trees(self, k=0):
       right_node = self.right is None
       left_node  = self.left is None
-      if self.root is None :
-         return 0
       if right_node and left_node:
-         return 1
-      if not right_node and not left_node: 
-         root = self.root
-         parents = 0
-         while root.root is not None:
-            parents += 1
-         return  self.right.count_sub_trees()  + self.left.count_sub_tree() 
+         return k
+      if not right_node and left_node:
+         return k + self.right.count_sub_trees(k) 
+      if right_node or not left_node: 
+         return k + self.left.count_sub_trees(k) 
+      if not right_node and not left_node:    
+         return self.left.count_sub_trees(k) + self.right.count_sub_trees(k) + k
 
+   def nodes(self, arr=[]):
+      if self.left:
+         arr.append(self.data)
+         self.left.nodes(arr)
+      if self.right:
+         arr.append(self.data)
+         self.right.nodes(arr)
+      arr = arr.append(self.data)
+      return arr
 
+      
+      
 
 
 def emplement_tree():
-   tree = Tree(0)
+   tree = BSTNode(0)
    tree.add_child(0)
    tree.add_child(1)
    tree.add_child(0)
    tree.add_child(1)
    tree.add_child(1)
    tree.add_child(1)
-   print(tree.count_sub_trees())
+   print(tree.nodes())
 
 if __name__ == "__main__":
    emplement_tree()
