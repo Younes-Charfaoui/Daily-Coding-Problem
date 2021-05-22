@@ -52,18 +52,13 @@ class BSTNode:
    def count_sub_trees(self):
       right_node = self.right is None
       left_node  = self.left is None
-      k = 0
-      if right_node and left_node:
-         return k
-      if not right_node and left_node:
-         k += 1 
-         self.right.count_sub_trees() 
-      if right_node or not left_node: 
-         k += 1 
-         self.left.count_sub_trees() 
-      if not right_node and not left_node:    
-         k += 2 
-         self.left.count_sub_trees() + self.right.count_sub_trees()
+      if not right_node and not left_node: 
+         return 1 +self.left.count_sub_trees() + self.right.count_sub_trees()
+      if not right_node :
+         return 1 + self.right.count_sub_trees() 
+      if not left_node: 
+         return 1+ self.left.count_sub_trees() 
+      return 0
 
       
       
