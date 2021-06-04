@@ -8,16 +8,17 @@ return 1. Given [13, 19, 13, 13], return 19.
 
 Do this in O(N) time and O(1) space."""
 
-# FIsrt try
+
 arr = [6, 1, 3, 3, 3, 6, 6]
 def get_duplicated(arr=arr):
-    dic = []
-    for i in arr:
-        if i in dic:
-            dic.remove(i)
+    for num in arr:
+        i = arr.index(num)
+        if num in arr[0:i] or num in arr[i+1::]:
+            continue
         else:
-            dic.append(i)
-    return dic
+            return num
 
 arr = get_duplicated()
+print(arr)
+arr = get_duplicated([13, 19, 13, 13])
 print(arr)
