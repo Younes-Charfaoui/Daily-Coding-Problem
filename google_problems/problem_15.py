@@ -10,7 +10,7 @@ Do this in O(N) time and O(1) space."""
 
 
 arr = [6, 1, 3, 3, 3, 6, 6]
-def get_duplicated(arr=arr):
+def get_unique(arr=arr):
     for num in arr:
         i = arr.index(num)
         if num in arr[0:i] or num in arr[i+1::]:
@@ -18,7 +18,7 @@ def get_duplicated(arr=arr):
         else:
             return num
 
-arr = get_duplicated()
+arr = get_unique()
 print(arr)
-arr = get_duplicated([13, 19, 13, 13])
+arr = get_unique([13, 19, 13, 13])
 print(arr)
