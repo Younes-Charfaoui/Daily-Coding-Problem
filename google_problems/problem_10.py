@@ -15,13 +15,15 @@ class BinaryTree:
         self.right = right
         self.parent = None
         self.is_locked = is_locked
-
+        self.locked_counter = 0 
     def is_locked(self):
         return self.is_locked
 
     def add_node(self, data: int, is_locked: bool):
         if self.data > data:
             if self.right is None:
+                if is_locked:
+                    self.locked_counter += 1
                 self.right = BinaryTree(data, None, None, is_locked)
                 self.right.parent = self
                 return
@@ -29,33 +31,40 @@ class BinaryTree:
                 self.right.add_node(data, is_locked)
         else:
             if self.left is None:
+                if is_locked:
+                    self.locked_counter += 1
                 self.left = BinaryTree(data, None, None, is_locked)
                 self.left.parent = self
                 return
             else:
                self.left.add_child(data, is_locked)
-              
-    def lock(self):
+
+    def check(self):
         if self.is_locked:
             return False
         if self.parent:
-            are_not_locked = self.parent.lock()  
-            if not are_not_locked:
-                return False
-        if self.right:
-            are_not_locked = self.right.lock()
-            if are_not_locked:
-                return False
-        if self.left:
-            are_not_locked = self.left.lock()
+            are_not_locked = self.parent.check()  
             if are_not_locked:
                 return False
         return True
-    
+
+    def lock(self):
+        if self.check(): 
+            self.is_locked = True
+            curr = self.parent
+            while curr:
+                self.locked_counter += 1
+                curr = curr.parent
+            return True
+        return False
+
     def unlocked(self):
-        if self.is_locked:
-            return False
-        if self.right.is_locked or self.left.is_locked:
-            return False
-        self.is_locked = True
-        return True
+        are_locked = self.check()
+        if are_locked: 
+            self.is_locked = True
+            while curr:
+                self.locked_counter -= 1
+                curr = curr.parent
+            return True
+        return False
+        
