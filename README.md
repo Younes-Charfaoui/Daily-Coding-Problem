@@ -1,6 +1,6 @@
 # Daily Coding Problems
 
-A repository that hold Interview Coding problems given by the Famous [Website](https://www.dailycodingproblem.com/), the problems are given by the top technologie leaders company such as Google, Mircrosoft ...etc, some problem do have solutions, and other don't have due to time, you can create a solution and make a pull request.
+A repository that holds interview coding problems given by the famous [Daily Coding Problem website](https://www.dailycodingproblem.com/). The problems are given by lead technology companies such as Google, Microsoft ...etc. Some problems do have solutions and others don't due to lack of time but you can code your own solution and make a pull request.
 
 ![ImageHeader](https://github.com/Younes-Charfaoui/Daily-Coding-Problem/blob/master/header_image.jpg)
 
