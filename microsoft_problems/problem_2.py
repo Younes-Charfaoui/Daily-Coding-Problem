@@ -16,29 +16,3 @@ should print out:
 2
 2
 """
-
-
-def sort(array):
-    for i in range(len(array)):
-        for j in range(i + 1, len(array)):
-            if array[i] > array[j]:
-                c = array[i]
-                array[i] = array[j]
-                array[j] = c
-    return array
-
-
-def median(array):
-    new_list = sort(array)
-    if len(new_list) % 2 == 1:
-        return new_list[(len(new_list) // 2)]
-    else:
-        return (new_list[(len(new_list) // 2) - 1] + new_list[(len(new_list) // 2)]) / 2
-
-
-def main(array):
-    for i in range(len(array)):
-        print(median(array[0:i + 1]))
-
-
-main([2, 1, 5, 7, 2, 0, 5])

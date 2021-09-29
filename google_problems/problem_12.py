@@ -6,28 +6,22 @@ the edit distance between “kitten” and “sitting” is three:
 substitute the “k” for “s”, substitute the “e” for “i”, and append a “g”.
 Given two strings, compute the edit distance between them."""
 
-import math
 
+def compare(first,second):
+    if len(first) > len(second):
+        return first
+    return second
 
-def main(one, two):
-    if len(one) > len(two):
-        small = len(two)
-    else:
-        small = len(one)
-    distance = int(math.fabs(len(one) - len(two)))
-    if distance == 0:
-        for i, j in zip(one, two):
-            if i != j:
-                distance += 1
-    else:
-        for i in range(small):
-            if one[i] != two[i]:
-                distance += 1
-    return distance
+def compute_edit_distance(first,second):
+    substitute = 0
+    bigger = compare(first, second)
+    for i in range(len(bigger)):
+        try:
+            if first[i] != second[i]:
+                substitute += 1
+        except :
+            substitute += 1
+    return substitute
 
-
-print(main("kitten", "sitting"))  # should gave 3
-print(main("me", "you"))  # should gave 3
-print(main("majid", "younes"))  # should gave 6
-print(main("hello", "ehllo"))  # should gave 2
-print(main("younes", "younes"))  # should gave 2
+substitute = compute_edit_distance("kitten","sitting")
+print("sub =",substitute)

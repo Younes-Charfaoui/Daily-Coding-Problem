@@ -8,23 +8,3 @@ to get to the bottom-right:
 •	Down, then right
 Given a 5 by 5 matrix, there are 70 ways to get to the bottom-right.
 """
-
-
-def main():
-    N = 5
-    M = 5
-    print(number_ways(N, M, 0, 0))
-
-
-def number_ways(n, m, i, j):
-    if i + 1 == n and j + 1 == m:
-        return 1
-    if i + 1 == n:
-        return number_ways(n, m, i, j + 1)
-    elif j + 1 == m:
-        return number_ways(n, m, i + 1, j)
-    else:
-        return number_ways(n, m, i + 1, j) + number_ways(n, m, i, j + 1)
-
-
-main()
